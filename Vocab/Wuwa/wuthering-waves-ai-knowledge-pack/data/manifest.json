@@ -1,0 +1,27 @@
+{
+  "snapshot_date": "2026-09-20",
+  "counts": {
+    "characters": 58,
+    "character_chain_nodes": 348,
+    "weapons": 122,
+    "echoes": 181,
+    "echo_costs": {
+      "4": 43,
+      "3": 53,
+      "1": 85
+    },
+    "sonata_sets": 34,
+    "substat_types": 13,
+    "mainstat_rows": 88
+  },
+  "source_type": "secondary community databases; not official client extraction",
+  "files": [
+    "00-readme.pplx.md",
+    "01-echo-mainstats-substats.md",
+    "02-echo-set-bonuses.md",
+    "03-echo-skills-cost-4-3-1.md",
+    "04-all-weapon-abilities.md",
+    "05-all-character-abilities.md",
+    "06-data-quality-and-coverage.md"
+  ]
+}

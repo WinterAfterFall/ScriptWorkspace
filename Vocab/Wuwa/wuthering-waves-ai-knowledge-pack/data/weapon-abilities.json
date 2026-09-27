@@ -1,0 +1,3706 @@
+[
+  {
+    "name": "Abyss Surges",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455915",
+    "data": {
+      "passive_name": "Stormy Resolution",
+      "mechanics_r1": [
+        "Increases Energy Regen by 12.8%.",
+        "When the wielder hits a target with Resonance Skill, increases Basic Attack DMG Bonus by 10% for 8s.",
+        "When the wielder hits a target with Basic Attacks, increases Resonance Skill DMG Bonus by 10% for 8s.",
+        "No stacks, cooldown, party-wide effect, next-character effect, off-field limitation, DEF/RES ignore, or damage amplification is stated."
+      ],
+      "refinement_scaling": [
+        "Energy Regen: 12.8% / 16% / 19.2% / 22.4% / 25.6%",
+        "Basic Attack DMG Bonus: 10% / 12.5% / 15% / 17.5% / 20%",
+        "Resonance Skill DMG Bonus: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Abyss Surges",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455915",
+      "type": "Gauntlet",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "ATK +36.4%",
+      "passive_r1": "Stormy Resolution: Increases Energy Regen by 12.8%. When hitting a target with Resonance Skill, increases Basic Attack DMG Bonus by 10%, lasting for 8s. When hitting a target with Basic Attacks, increases Resonance Skill DMG Bonus by 10%, lasting for 8s."
+    }
+  },
+  {
+    "name": "Ages of Harvest",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/458249",
+    "data": {
+      "passive_name": "Divine Blessing",
+      "mechanics_r1": [
+        "Grants the wielder 12% Attribute DMG Bonus.",
+        "Casting the wielder's Intro Skill grants Ageless Marking, providing 24% Resonance Skill DMG Bonus for 12s.",
+        "Casting the wielder's Resonance Skill grants Ethereal Endowment, providing 24% Resonance Skill DMG Bonus for 12s.",
+        "The evidence does not state any resource cost, stack limit, cooldown, party-wide effect, next-character effect, off-field restriction, or DEF/RES reduction or ignore."
+      ],
+      "refinement_scaling": [
+        "Attribute DMG Bonus: 12% / 15% / 18% / 21% / 24%",
+        "Ageless Marking — Resonance Skill DMG Bonus: 24% / 30% / 36% / 42% / 48%",
+        "Ethereal Endowment — Resonance Skill DMG Bonus: 24% / 30% / 36% / 42% / 48%"
+      ],
+      "rank_coverage": "R1-R5; all five supplied rank entries are covered.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Ages of Harvest",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/458249",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.3%",
+      "passive_r1": "Divine Blessing: Grants 12% Attribute DMG Bonus. Casting Intro Skill gives the equipper Ageless Marking, which grants 24% Resonance Skill DMG Bonus for 12s. Casting Resonance Skill gives the equipper Ethereal Endowment, which grants 24% Resonance Skill DMG Bonus for 12s."
+    }
+  },
+  {
+    "name": "Azure Oath",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/606962",
+    "data": {
+      "passive_name": "Unbending",
+      "mechanics_r1": [
+        "Grants the wielder 12% All-Attribute DMG Bonus.",
+        "After the wielder inflicts Havoc Bane, the wielder gains 36% Heavy Attack DMG Amplification.",
+        "After inflicting Havoc Bane, the wielder's Heavy Attack DMG ignores 12% of the target's DEF.",
+        "The Heavy Attack DMG Amplification and DEF ignore effects last for 8s."
+      ],
+      "refinement_scaling": [
+        "All-Attribute DMG Bonus: 12% / 15% / 18% / 21% / 24%",
+        "Heavy Attack DMG Amplification: 36% / 45% / 54% / 63% / 72%",
+        "Heavy Attack DMG target DEF ignored: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Azure Oath",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/606962",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit. Rate +24.3%",
+      "passive_r1": "Unbending: Grants 12% All-Attribute DMG Bonus. After inflicting Havoc Bane, the wielder gains 36% Heavy Attack DMG Amplification and their Heavy Attack DMG ignores 12% of the target's DEF, lasting for 8s."
+    }
+  },
+  {
+    "name": "Blazing Brilliance",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/458273",
+    "data": {
+      "passive_name": "Crimson Phoenix",
+      "mechanics_r1": [
+        "Increases the wielder's ATK by 12%.",
+        "When the wielder deals damage, they gain 1 stack of Searing Feather; this can trigger once every 0.5s.",
+        "When the wielder casts Resonance Skill, they gain 5 stacks of Searing Feather.",
+        "Each Searing Feather stack grants 4% additional Resonance Skill DMG Bonus, up to 14 stacks.",
+        "After reaching the maximum stacks, all Searing Feather stacks are removed in 12s.",
+        "The effects apply to the wielder; no party-wide, next-character, off-field, DEF-ignore, or RES-ignore effects are stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Skill DMG Bonus per Searing Feather stack: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Blazing Brilliance",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/458273",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.6%",
+      "passive_r1": "Crimson Phoenix: ATK increased by 12%. The wielder gains 1 stack of Searing Feather upon dealing damage, which can be triggered once every 0.5s, and gains 5 stacks of the same effect upon casting Resonance Skill. Each stack of Searing Feather gives 4% additional Resonance Skill DMG Bonus for up to 14 stacks. After reaching the max stacks, all stacks will be removed in 12s."
+    }
+  },
+  {
+    "name": "Blazing Justice",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/514609",
+    "data": {
+      "passive_name": "Darkness Breaker",
+      "mechanics_r1": [
+        "Increases the wielder's ATK by 12%.",
+        "Casting a Basic Attack grants effects for 6s: damage ignores 8% of the target's DEF, and Spectro Frazzle DMG is amplified by 50%.",
+        "Retriggering the effect resets its duration.",
+        "No resources, stacks, cooldown, party-wide effects, next-character effects, or off-field limitations are stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Target DEF ignored: 8% / 10% / 12% / 14% / 16%",
+        "Spectro Frazzle DMG amplification: 50% / 62.5% / 75% / 87.5% / 100%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Blazing Justice",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/514609",
+      "type": "Gauntlet",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.6%",
+      "passive_r1": "Darkness Breaker: Increases ATK by 12%. Casting Basic Attack grants the following effects: Dealing damage ignores 8% of the target's DEF and amplifies Spectro Frazzle DMG dealt by 50% for 6s. Retriggering the effect resets its duration."
+    }
+  },
+  {
+    "name": "Bloodpact's Pledge",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/506483",
+    "data": {
+      "passive_name": "Harmonious Vibrancy",
+      "mechanics_r1": [
+        "Providing Healing increases Resonance Skill DMG by 10% for 6s.",
+        "When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is amplified by 10% for 30s.",
+        "No resource, stack mechanic, cooldown, or off-field restriction is specified."
+      ],
+      "refinement_scaling": [
+        "Resonance Skill DMG increase: 10% / 14% / 18% / 22% / 26%",
+        "Aero DMG amplification: 10% / 14% / 18% / 22% / 26%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Bloodpact's Pledge",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/506483",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Energy Regen +38.80%",
+      "passive_r1": "Harmonious Vibrancy: Providing Healing increases Resonance Skill DMG by 10% for 6s. When Rover: Aero casts Resonance Skill Unbound Flow, Aero DMG dealt by nearby Resonators on the field is amplified by 10% for 30s."
+    }
+  },
+  {
+    "name": "Boson Astrolabe",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/571765",
+    "data": {
+      "passive_name": "Path Observer",
+      "mechanics_r1": [
+        "Increases the wielder's ATK by 12%.",
+        "When a Resonator on the team casts a Tune Break skill, increases the wielder's ATK by 12% and grants 12% Basic Attack DMG Bonus for 14s.",
+        "The Basic Attack effect is a damage bonus, not damage amplification, and no DEF/RES ignore is provided.",
+        "No resource cost, stack limit, cooldown, next-character effect, or off-field restriction is specified."
+      ],
+      "refinement_scaling": [
+        "Base ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Tune Break-triggered ATK increase: 12% / 13.5% / 15% / 16.5% / 18%",
+        "Tune Break-triggered Basic Attack DMG Bonus: 12% / 13.5% / 15% / 16.5% / 18%"
+      ],
+      "rank_coverage": "R1-R5 covered by the supplied rank effects.",
+      "gaps": [
+        "The supplied evidence does not specify cooldown, stacking or refresh behavior, resource requirements, off-field operation, or whether the wielder must be on-field when the Tune Break skill is cast."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Boson Astrolabe",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/571765",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "525",
+      "secondary90": "Energy Regen +38.8%",
+      "passive_r1": "Path Observer: Increases ATK by 12%. When a Resonator in the team casts a Tune Break skill, it grants a 12% ATK increase and 12% Basic Attack DMG Bonus to the wielder for 14s."
+    }
+  },
+  {
+    "name": "Cosmic Ripples",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455928",
+    "data": {
+      "passive_name": "Stormy Resolution",
+      "mechanics_r1": [
+        "Increases the wielder’s Energy Regen by 12.8%.",
+        "When dealing Basic Attack DMG, grants 3.2% Basic Attack DMG Bonus per stack, up to 5 stacks.",
+        "The stacking effect lasts for 8s and can trigger once every 0.5s.",
+        "The effect is a Basic Attack DMG Bonus, not damage amplification or DEF/RES ignore. No party-wide, next-character, or off-field effects are specified."
+      ],
+      "refinement_scaling": [
+        "Energy Regen: 12.8% / 16% / 19.2% / 22.4% / 25.6%",
+        "Basic Attack DMG Bonus per stack: 3.2% / 4% / 4.8% / 5.6% / 6.4%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Cosmic Ripples",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455928",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "ATK +53.9%",
+      "passive_r1": "Stormy Resolution: Increases Energy Regen by 12.8%. When dealing Basic Attack DMG, increases Basic Attack DMG Bonus by 3.2%, stacking up to 5 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.5s."
+    }
+  },
+  {
+    "name": "Daybreaker's Spine",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/575692",
+    "data": {
+      "passive_name": "Suturing Dayline",
+      "mechanics_r1": [
+        "Increases the wielder's ATK by 12%.",
+        "After the wielder deals Basic Attack DMG, grants the wielder 20% Spectro DMG Bonus for 4s.",
+        "Each time the wielder inflicts Tune Strain - Shifting on a target, grants the wielder 20% Basic Attack DMG Amplification for 6s.",
+        "The same Tune Strain - Shifting trigger causes the wielder's Basic Attack DMG to ignore 10% of the target's DEF for 6s."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Spectro DMG Bonus: 20% / 25% / 30% / 35% / 40%",
+        "Basic Attack DMG Amplification: 20% / 25% / 30% / 35% / 40%",
+        "Target DEF ignored by Basic Attack DMG: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "No resource cost, cooldown, stack limit, party-wide effect, next-character effect, or off-field limitation is specified."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Daybreaker's Spine",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/575692",
+      "type": "Gauntlet",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit. Rate +24.3%",
+      "passive_r1": "Suturing Dayline: Increases ATK by 12%. After dealing Basic Attack DMG, the wielder gains 20% Spectro DMG Bonus for 4s. Each time after the wielder inflicts Tune Strain - Shifting on the target, they gain 20% Basic Attack DMG Amplification and their Basic Attack DMG ingores 10% of the target's DEF for 6s."
+    }
+  },
+  {
+    "name": "Defier's Thorn",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/524868",
+    "data": {
+      "passive_name": "A Free Knight's Tarantella",
+      "mechanics_r1": [
+        "Increases Max HP by 12%.",
+        "15s after casting Intro Skill or Basic attacks, ignores 8% of the target's DEF when dealing damage.",
+        "If the target has at least 1 stack of Aero Erosion, amplifies the target's DMG taken by 20%.",
+        "No resource cost, cooldown, effect duration, party scope, or off-field limitation is stated."
+      ],
+      "refinement_scaling": [
+        "Max HP increase: 12% / 15% / 18% / 21% / 24%",
+        "Target DEF ignored: 8% / 10% / 12% / 14% / 16%",
+        "Target DMG taken amplification: 20% / 25% / 30% / 35% / 40%"
+      ],
+      "rank_coverage": "R1-R5; all five refinement ranks are supplied.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Defier's Thorn",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/524868",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "412",
+      "secondary90": "HP +72.20%",
+      "passive_r1": "A Free Knight's Tarantella: Max HP is increased by 12%. 15s after casting Intro Skill or Basic attacks, ignores 8% of the target's DEF when dealing damage. If the target has at least 1 stack of Aero Erosion, the target's DMG taken is Amplified by 20%."
+    }
+  },
+  {
+    "name": "Emerald of Genesis",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455939",
+    "data": {
+      "passive_name": "Stormy Resolution",
+      "mechanics_r1": [
+        "Increases Energy Regen by 12.8%.",
+        "When Resonance Skill is cast, increases ATK by 6%.",
+        "The ATK increase can stack up to 2 times.",
+        "The ATK effect lasts for 10 seconds per the supplied effect text.",
+        "No damage bonus, damage amplification, DEF/RES ignore, party-wide, next-character, or off-field effect is stated.",
+        "No cooldown is stated."
+      ],
+      "refinement_scaling": [
+        "Energy Regen: 12.8% / 16% / 19.2% / 22.4% / 25.6%",
+        "ATK increase per stack: 6% / 7.5% / 9% / 10.5% / 12%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The supplied text does not specify whether the ATK increase applies only to the wielder or to other characters.",
+        "No cooldown or separate duration scaling is provided; the 2-stack limit and 10-second duration are unchanged across the listed ranks."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Emerald of Genesis",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455939",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.3%",
+      "passive_r1": "Stormy Resolution: Increases Energy Regen by 12.8%. When Resonance Skill is cast, increases ATK by 6%, stacking up to 2 time(s). This effect lasts for 10s."
+    }
+  },
+  {
+    "name": "Emerald Sentence",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/553562",
+    "data": {
+      "passive_name": "When A Heart Settles",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Within 10s after casting an Intro Skill or Basic Attack, casting an Echo Skill grants 1 stack of Bamboo Cleaver.",
+        "Each Bamboo Cleaver stack grants the wielder 30% Heavy ATK DMG Bonus. Bamboo Cleaver can stack up to 2 times, for a maximum of 60% Heavy ATK DMG Bonus.",
+        "The Bamboo Cleaver effect can be triggered once by Echoes with the same name, and can be triggered once every 10s.",
+        "Bamboo Cleaver lasts for 12s. Casting an Echo Skill while at maximum stacks does not refresh this duration.",
+        "Bamboo Cleaver ends early if the wielder leaves the field.",
+        "Casting an Intro Skill grants all Resonators in the team 20% Echo Skill DMG Bonus for 30s.",
+        "Echo Skill DMG Bonus effects with the same name do not stack.",
+        "No DEF/RES ignore, damage amplification, next-character effect, or separate off-field benefit is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Heavy ATK DMG Bonus per Bamboo Cleaver stack: 30% / 37.5% / 45% / 52.5% / 60%",
+        "Team Echo Skill DMG Bonus from casting Intro Skill: 20% / 25% / 30% / 35% / 40%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Emerald Sentence",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/553562",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit. Rate +24.3%",
+      "passive_r1": "When A Heart Settles: ATK is increased by 12%. Casting Echo Skill within 10s after casting Intro Skill or Basic Attack grants 1 stack of Bamboo Cleaver, which grants 30% Heavy ATK DMG Bonus to the wielder. This effect can be triggered by Echoes of the same name once, stacking up to 2 times, lasting for 12s.\n\nCasting Echo Skill at max stacks does not reset the duration. This effect be triggered once every 10s and ends early if the wielder is switched off the field. Casting Intro Skill grants 20% Echo Skill DMG Bonus to all Resonators in the team for 30s. Effects of the same name cannot stack."
+    }
+  },
+  {
+    "name": "Everbright Polestar",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/575684",
+    "data": {
+      "passive_name": "Starchaser",
+      "mechanics_r1": [
+        "Increases the wielder's All-Attribute DMG Bonus by 12%.",
+        "When the wielder inflicts Tune Rupture - Shifting or Fusion Burst, the wielder's Resonance Liberation DMG ignores 32% of targets' DEF and 10% of their Fusion RES for 8s.",
+        "The effect applies to the wielder; no party-wide, next-character, or off-field effect is stated."
+      ],
+      "refinement_scaling": [
+        "All-Attribute DMG Bonus: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Liberation DEF ignore: 32% / 40% / 48% / 56% / 64%",
+        "Fusion RES ignore: 10% / 15% / 20% / 25% / 30%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "No stacks or stack limits are stated.",
+        "No cooldown is stated.",
+        "No additional party, next-character, or off-field limitations are stated beyond the wielder being the affected character."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Everbright Polestar",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/575684",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.3%",
+      "passive_r1": "Starchaser: Increases All-Attribute DMG Bonus by 12%. When inflicting Tune Rupture - Shifting or Fusion Burst, the wielder's Resonance Liberation DMG ignores 32% DEF and 10% Fusion RES on targets for 8s."
+    }
+  },
+  {
+    "name": "Firstlight's Herald",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/606963",
+    "data": {
+      "passive_name": "Spring Wreath",
+      "mechanics_r1": [
+        "Increases the wielder's Max HP by 12%.",
+        "Casting Resonance Liberation restores 8 Concerto Energy; this can trigger once every 20 seconds.",
+        "Inflicting Glacio Chafe grants Snow Taint for 6 seconds.",
+        "Applying healing grants Ripples for 6 seconds.",
+        "If the wielder inflicts Glacio Chafe and applies healing while on the field, the wielder's next Outro Skill grants both Snow Taint and Ripples for 6 seconds.",
+        "While the wielder has both Snow Taint and Ripples, all nearby Resonators in the team gain 20% ATK.",
+        "Effects with the same name do not stack."
+      ],
+      "refinement_scaling": [
+        "Max HP increase: 12% / 15% / 18% / 21% / 24%",
+        "Concerto Energy restored: 8 points / 10 points / 12 points / 14 points / 16 points",
+        "Team ATK increase: 20% / 25% / 30% / 35% / 40%"
+      ],
+      "rank_coverage": "R1-R5; all five refinement ranks are supplied.",
+      "gaps": [
+        "The supplied evidence does not define Glacio Chafe, Snow Taint, or Ripples beyond their stated triggers and durations."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Firstlight's Herald",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/606963",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "412",
+      "secondary90": "Energy Regen +77.0%",
+      "passive_r1": "Spring Wreath: Increases Max HP by 12%. Casting Resonance Liberation restores 8 points of Concerto Energy, triggered once every 20s. Inflicting Glacio Chafe grants Snow Tain for 6s. Applying healing grants Ripples for 6s.\n\nIf the wielder has done both while on the field, the next Outro Skill grants both effects for 6s. When the wielder has both Snow Taint and Ripples, the ATK of all nearby Resonators in the team is increased by 20%. Effects of the same name do not stack."
+    }
+  },
+  {
+    "name": "Forged Dwarf Star",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/595088",
+    "data": {
+      "passive_name": "Dissolution",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "When the wielder inflicts Fusion Burst or Tune Strain - Shifting on a target, increases the wielder's Resonance Liberation DMG Bonus by 36% for 5s.",
+        "While that effect is active, when Resonators in the team inflict Fusion Burst or Tune Strain - Shifting, their ATK increases by 24% for 15s.",
+        "Effects with the same name cannot stack.",
+        "No resource cost, cooldown, next-character condition, off-field restriction, or DEF/RES ignore effect is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Wielder's Resonance Liberation DMG Bonus: 36% / 45% / 54% / 63% / 72%",
+        "Team Resonators' ATK increase: 24% / 30% / 36% / 42% / 48%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Forged Dwarf Star",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/595088",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit. Rate +36.0%",
+      "passive_r1": "Dissolution: Increases ATK by 12%. After the wielder inflicts Fusion Burst or Tune Strain - Shifting on the target, it increases their Resonance Liberation DMG Bonus by 36% for 5s. \n\nWhile the effect lasts, after Resonators in the team inflict Fusion Burst or Tune Strain - Shifting, their ATK is increased by 24% for 15s. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Freeze Frame",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/603090",
+    "data": {
+      "passive_name": "Light's Offering",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "After the wielder inflicts Glacio Chafe on a target, the wielder gains 30% Glacio DMG Bonus for 12s.",
+        "After the same trigger, all Resonators in the team gain 24% ATK for 30s.",
+        "The effects of the same name cannot be stacked.",
+        "No resource cost, cooldown, DEF/RES ignore, next-character condition, or off-field limitation is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Wielder's Glacio DMG Bonus: 30% / 37.5% / 45% / 52.5% / 60%",
+        "Team ATK increase: 24% / 30% / 36% / 42% / 48%"
+      ],
+      "rank_coverage": "R1-R5; all five supplied rank entries are covered in document order.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Freeze Frame",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/603090",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit. Rate +24.3%",
+      "passive_r1": "Light's Offering: Increases ATK by 12%. After inflicting Glacio Chafe on the target, the wielder gains 30% Glacio DMG Bonus for 12s, and all Resonators in the team gain 24% ATK increase for 30s. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Frostburn",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/595087",
+    "data": {
+      "passive_name": "Self No More",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "When the wielder applies Glacio Chafe, amplifies Glacio DMG by 28%.",
+        "When the wielder applies Glacio Chafe, Resonance Liberation DMG ignores 10% of the target's DEF.",
+        "While the wielder is the active Resonator, Glacio Chafe DMG dealt to all targets within a certain range is amplified by 20% for 6s.",
+        "The active-Resonator Glacio Chafe effect can trigger once every 0.1s.",
+        "Only the strongest effect with the same name applies.",
+        "No resources, stacks, or next-character effects are specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Glacio DMG amplification: 28% / 35% / 42% / 49% / 56%",
+        "Resonance Liberation DMG DEF ignore: 10% / 12.5% / 15% / 17.5% / 20%",
+        "Active-Resonator Glacio Chafe DMG amplification: 20% / 25% / 30% / 35% / 40%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Frostburn",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/595087",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.3%",
+      "passive_r1": "Self No More: ATK is increased by 12%. When the wielder applies Glacio Chafe, Glacio DMG is amplified by 28%, and Resonance Liberation DMG ignores 10% of the target's DEF.\n\nIf the wielder is the active Resonator in the team, Glacio Chafe DMG dealt to all targets within a certain range is Amplified by 20% for 6s. This effect can be triggered once every 0.1s. Only the strongest effect of the same name applies."
+    }
+  },
+  {
+    "name": "Glint of Clouds",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/614634",
+    "data": {
+      "passive_name": "Evil's Scourge",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Inflicting Tune Strain - Shifting grants 11.2% Aero DMG Bonus for 2 seconds.",
+        "The Aero DMG Bonus stacks up to 5 times, and this effect can trigger once every 0.5 seconds.",
+        "Upon reaching 5 stacks, the Aero DMG Bonus duration is extended to 30 seconds.",
+        "At maximum stacks, Aero DMG ignores 10% of the target's DEF during the effect."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Aero DMG Bonus per stack: 11.2% / 14% / 16.8% / 19.6% / 22.4%",
+        "Aero DMG DEF ignore at maximum stacks: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Glint of Clouds",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/614634",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit. Rate +36.0%",
+      "passive_r1": "Evil's Scourge: ATK is increased by 12%. Inflicting Tune Strain - Shifting grants 11.2% Aero DMG Bonus for 2s, stacking up to 5 times. This effect can be triggered once every 0.5s. Upon reaching the max stack limit, gain the following effects:\n\n- This Aero DMG Bonus effect's duration is extended to 30s. - Aero DMG ignores 10% of the target's DEF during this effect."
+    }
+  },
+  {
+    "name": "Kumokiri",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/565517",
+    "data": {
+      "passive_name": "Lifethread",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "When the wielder casts Intro Skill or inflicts Negative Statuses, grants the wielder 8% Resonance Liberation DMG Bonus; this effect stacks up to 3 times and lasts 15s.",
+        "At maximum stacks, when Resonators in the team inflict Negative Statuses, grants them 24% All-Attribute DMG Bonus for 15s.",
+        "Effects with the same name cannot stack."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Liberation DMG Bonus per stack: 8% / 10% / 12% / 14% / 16%",
+        "All-Attribute DMG Bonus: 24% / 30% / 36% / 42% / 48%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "No cooldown or resource cost is specified.",
+        "No off-field limitation or next-character effect is specified.",
+        "No DEF/RES ignore or damage amplification effect is specified; the listed effects are DMG Bonuses.",
+        "The evidence does not specify how often a Negative Status trigger can grant a stack."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Kumokiri",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/565517",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit. Rate +36.0%",
+      "passive_r1": "Lifethread: ATK is increased by 12%. When the weilder casts Intro Skill or inflicts Negative Statuses, they gain 8% Resonance Liberation DMG Bonus, stacking up to 3 times for 15s.\n\nAt max stacks, when Resonators in the team inflict Negative Statuses, they gain 24% All-Attribute DMG Bonus for 15%. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Laser Shearer",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/571767",
+    "data": {
+      "passive_name": "Signal Catcher",
+      "mechanics_r1": [
+        "Increases the wielder's ATK by 12%.",
+        "When the wielder deals damage to a target under Tune Strain: Interfered, grants 24% Resonance Skill Bonus for 3 seconds.",
+        "Retriggering the effect resets its duration.",
+        "No resource, stack limit, cooldown, party-wide effect, next-character effect, off-field restriction, or DEF/RES interaction is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Skill Bonus: 24% / 27% / 30% / 33% / 36%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Laser Shearer",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/571767",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Energy Regen +38.8%",
+      "passive_r1": "Signal Catcher: Increases ATK by 12%. Dealing damage to targets under Tune Strain: Interfered grants 24% Resonance Skill Bonus for 3s. Retriggering the effect resets its duration."
+    }
+  },
+  {
+    "name": "Lethean Elegy",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/537943",
+    "data": {
+      "passive_name": "Underworld Requiem",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Within 12 seconds after dealing Echo Skill DMG, grants 32% Resonance Skill DMG Bonus.",
+        "Within 12 seconds after dealing Echo Skill DMG, grants 32% Echo Skill DMG Amplification.",
+        "Within 12 seconds after dealing Echo Skill DMG, ignores 8% of the target's DEF when dealing damage."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Skill DMG Bonus: 32% / 40% / 48% / 56% / 64%",
+        "Echo Skill DMG Amplification: 32% / 40% / 48% / 56% / 64%",
+        "Target DEF ignored: 8% / 10% / 12% / 14% / 16%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "No resource cost, stack mechanic, or cooldown is specified.",
+        "No party-wide, next-character, or off-field limitation is specified.",
+        "The source does not clarify whether the 12-second effect refreshes or how multiple triggers interact."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Lethean Elegy",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/537943",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.30%",
+      "passive_r1": "Underworld Requiem: ATK is increased by 12%. Within 12s after dealing Echo Skill DMG, gain 32% Resonance Skill DMG Bonus, 32% Echo Skill DMG Amplification, and ignore 8% of the target's DEF when dealing damage."
+    }
+  },
+  {
+    "name": "Luminous Hymn",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/498527",
+    "data": {
+      "passive_name": "Homebuilder's Anthem",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "When dealing damage to enemies affected by Spectro Frazzle, grants 14% Basic Attack DMG Bonus and 14% Heavy Attack DMG Bonus, respectively.",
+        "The Basic Attack and Heavy Attack DMG Bonus effects stack up to 3 times.",
+        "Each stack lasts 6s.",
+        "After casting Outro Skill, amplifies Spectro Frazzle damage dealt to enemies around the active Resonator by 30% for 30s.",
+        "Effects with the same name cannot stack."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Basic Attack DMG Bonus per stack: 14% / 17.5% / 21% / 24.5% / 28%",
+        "Heavy Attack DMG Bonus per stack: 14% / 17.5% / 21% / 24.5% / 28%",
+        "Spectro Frazzle damage amplification: 30% / 37.5% / 45% / 52.5% / 60%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "The supplied effect text does not specify whether the Basic Attack and Heavy Attack bonuses apply only to the wielder or can affect other Resonators.",
+        "No cooldown, resource cost, off-field restriction, or explicit party-wide/next-character limitation is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Luminous Hymn",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/498527",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit Rate +36%",
+      "passive_r1": "Homebuilder's Anthem: Increase ATK 12%. Dealing DMG to enemies with Spectro Frazzle gives 14% Basic and 14% Heavy Attack DMG Bonus respectively, stacking up to 3 times for 6s. Casting Outro Skill Amplifies the DMG from Spectro Frazzle on enemies around the active Resonator by 30% for 30s. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Lustrous Razor",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455952",
+    "data": {
+      "passive_name": "Incision",
+      "mechanics_r1": [
+        "Increases Energy Regen by 12.8%.",
+        "When Resonance Skill is released, increases Resonance Liberation DMG by 7%.",
+        "The Resonance Liberation DMG increase stacks up to 3 times.",
+        "The effect lasts for 12s.",
+        "The source does not specify a cooldown, party-wide sharing, next-character effect, off-field restriction, or DEF/RES ignore."
+      ],
+      "refinement_scaling": [
+        "Energy Regen: 12.8% / 16% / 19.2% / 22.4% / 25.6%",
+        "Resonance Liberation DMG increase per stack: 7% / 8.75% / 10.5% / 12.5% / 14%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "Cooldown, recipient scope, next-character interaction, off-field limitations, and DEF/RES ignore are not stated in the supplied evidence."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Lustrous Razor",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455952",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "ATK +36.4%",
+      "passive_r1": "Incision: Increases Energy Regen by 12.8%. When Resonance Skill is released, increases Resonance Liberation DMG by 7%, stacking up to 3 times. This effect lasts for 12s."
+    }
+  },
+  {
+    "name": "Lux ＆ Umbra",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/553561",
+    "data": {
+      "passive_name": "To Fire She Returns",
+      "mechanics_r1": [
+        "ATK increases by 12%.",
+        "Dealing Echo Skill DMG grants 24% Heavy Attack DMG Amplification for 6s.",
+        "Dealing Heavy Attack DMG grants 24% Echo Skill DMG Amplification for 6s.",
+        "The DMG Amplification provided for each attack is capped at 24%.",
+        "While both amplification effects are active, damage ignores 8% of the target's DEF."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Heavy Attack DMG Amplification after dealing Echo Skill DMG: 24% / 30% / 36% / 42% / 48%",
+        "Echo Skill DMG Amplification after dealing Heavy Attack DMG: 24% / 30% / 36% / 42% / 48%",
+        "Per-attack DMG Amplification cap: 24% / 24% / 36% / 42% / 48%",
+        "DEF ignore while both effects are active: 8% / 10% / 12% / 14% / 16%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The supplied evidence does not specify cooldowns, resource costs, stack behavior, party-sharing rules, next-character effects, or off-field limitations."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Lux ＆ Umbra",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/553561",
+      "type": "Pistol",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.6%",
+      "passive_r1": "To Fire She Returns: ATK is increased by 12%. Upon dealing Echo Skill DMG, gain 24% Heavy Attack DMG Amplification for 6s. Upon dealing Heavy Attack DMG, gain 24% Echo Skill DMG Amplification for 6s. DMG Amplification on each attack is capped at 24%. While both effects are active, dealing damage ignores 8% of the target's DEF."
+    }
+  },
+  {
+    "name": "Moongazer's Sigil",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/544474",
+    "data": {
+      "passive_name": "Plenilune Radiance",
+      "mechanics_r1": [
+        "Increases the wielder's ATK by 12%.",
+        "Casting Intro Skill or Resonance Liberation increases the wielder's Resonance Liberation DMG by 20% for 15s.",
+        "Obtaining a Shield enables the wielder's Resonance Liberation DMG to ignore 7.2% of the target's DEF for 7s.",
+        "The DEF-ignore effect can stack up to 5 times and triggers once every 0.5s.",
+        "Casting Intro Skill immediately grants the maximum DEF-ignore stacks; this maximum-stack effect lasts for 3s.",
+        "No party-wide, next-character, off-field, or resource requirements are specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Liberation DMG increase: 20% / 25% / 30% / 35% / 40%",
+        "Resonance Liberation DEF ignored: 7.2% / 8.4% / 9.6% / 10.8% / 12.0%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Moongazer's Sigil",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/544474",
+      "type": "Gauntlet",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit. Rate +36.0%",
+      "passive_r1": "Plenilune Radiance: Increases ATK by 12%. Casting Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 20% for 15s. Obtaining Shield allows Resonance Liberation DMG to ignore 7.2% of the target's DEF for 7s, stacking up to 5 times. This effect is triggered once every 0.5s. Upon casting Intro Skill, this effect reaches max stacks immediately, lasting for 3s."
+    }
+  },
+  {
+    "name": "Phasic Homogenizer",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/571766",
+    "data": {
+      "passive_name": "Insight Bearer",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "When a Resonator on the team casts a Tune Break skill, grants the wielder 20% All-Attribute DMG Bonus for 14s.",
+        "The effect applies to the wielder; no next-character effect, resource, stack limit, cooldown, or off-field restriction is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 14% / 18% / 21% / 24%",
+        "All-Attribute DMG Bonus: 20% / 22.5% / 25% / 27.5% / 30%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The supplied evidence does not specify a cooldown, resource, stack behavior, or off-field limitation."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Phasic Homogenizer",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/571766",
+      "type": "Pistol",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.6%",
+      "passive_r1": "Insight Bearer: Increases ATK by 12%. When a Resonator in the team casts a Tune Break skill, it grants 20% All-Attribute DMG Bonus to the wielder for 14s."
+    }
+  },
+  {
+    "name": "Pulsation Bracer",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/571764",
+    "data": {
+      "passive_name": "Barrier Breacher",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Dealing damage to targets under Tune Strain: Interfered grants 6% Basic Attack DMG Bonus for 3s.",
+        "The Basic Attack DMG Bonus stacks up to 4 times.",
+        "This effect can trigger once every 0.5s.",
+        "Retriggering the effect resets its duration.",
+        "No separate resource, party-wide distribution, next-character effect, off-field limitation, damage amplification, or DEF/RES ignore is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Basic Attack DMG Bonus per stack: 6% / 6.7% / 7.5% / 8.2% / 9%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The recipient of the Basic Attack DMG Bonus is not explicitly identified as the wielder or the party.",
+        "No additional refinement changes beyond the listed ATK increase and Basic Attack DMG Bonus are provided."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Pulsation Bracer",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/571764",
+      "type": "Gauntlet",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit. Rate +24.3%",
+      "passive_r1": "Barrier Breacher: Increases ATK by 12%. Dealing damage to targets under Tune Strain: Interfered grants 6% Basic Attack DMG Bonus for 3s, stacking up to 4 times. This effect can be triggered once every 0.5s. Retriggering the effect resets its duration."
+    }
+  },
+  {
+    "name": "Radiance Cleaver",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/571768",
+    "data": {
+      "passive_name": "Edge Breaker",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "When the wielder deals damage to a target under Tune Strain: Interfered, grants 24% Resonance Liberation Bonus for 3s.",
+        "Dealing damage to an eligible target again resets the effect's duration.",
+        "No stacks, resource cost, or cooldown are specified.",
+        "The source does not specify off-field behavior, party-wide sharing, next-character effects, damage amplification, or DEF/RES ignore."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Liberation Bonus: 24% / 27% / 30% / 33% / 36%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Radiance Cleaver",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/571768",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.6%",
+      "passive_r1": "Edge Breaker: Increases ATK by 12%. Dealing damage to targets under Tune Strain: Interfered grants 24% Resonance Liberation Bonus for 3s. Retriggering the effect resets its duration."
+    }
+  },
+  {
+    "name": "Red Spring",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/483281",
+    "data": {
+      "passive_name": "Beyond the Cycle",
+      "mechanics_r1": [
+        "The wielder's ATK increases by 12%.",
+        "When the wielder deals Basic Attack DMG, they gain 10% Basic Attack DMG Bonus for 14s. This effect can trigger once per second and stacks up to 3 times.",
+        "When the wielder's Concerto Energy is consumed, they gain 40% Basic Attack DMG Bonus for 10s. This effect can trigger once per second and ends when the wielder is switched off the field.",
+        "All listed effects apply to the wielder only; no party-wide or next-character effects are stated.",
+        "The passive grants Basic Attack DMG Bonus and does not state DMG amplification or DEF/RES ignore."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Basic Attack DMG Bonus gained from dealing Basic Attack DMG: 10% / 12.5% / 15% / 17.5% / 20%",
+        "Basic Attack DMG Bonus gained when Concerto Energy is consumed: 40% / 50% / 60% / 70% / 80%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Red Spring",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/483281",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.3%",
+      "passive_r1": "Beyond the Cycle: Increase ATK by 12%. When dealing Basic Attack DMG, the weilder gains 10% Basic Attack DMG Bonus for 14s. This effect can be triggered once per second, stacking up to 3 times. When the weilder's Concerto Energy is consumed, gain 40% Basic Attack DMG Bonus for 10s. This effect can be triggered once per second and ends when the weilder is switched off the field."
+    }
+  },
+  {
+    "name": "Rime-Draped Sprouts",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/464109",
+    "data": {
+      "passive_name": "Panorama",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Using Resonance Skill grants the equipped Resonator a 12% Basic Attack DMG Bonus for 6s, stacking up to 3 times.",
+        "When the equipped Resonator casts Outro Skill with 3 stacks, all stacks are consumed.",
+        "Consuming 3 stacks grants a 52% DMG Bonus to the equipped Resonator’s off-field Basic Attacks for 27s.",
+        "No cooldown is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Basic Attack DMG Bonus per stack: 12% / 15% / 18% / 21% / 24%",
+        "Off-field Basic Attack DMG Bonus after consuming 3 stacks: 52% / 65% / 78% / 91% / 104%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Rime-Draped Sprouts",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/464109",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit DMG +72%",
+      "passive_r1": "Panorama: Increases ATK by 12%. Using Resonance Skill gives the equipped Resonator 12% Basic Attack DMG Bonus for 6s, stacking up to 3 times. When casting Outro Skill with 3 stacks, consume all stacks to give 52% DMG Bonus to the off-field Basic Attacks performed by the equipped Resonator, lasting for 27s."
+    }
+  },
+  {
+    "name": "Skull Thrasher",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/603088",
+    "data": {
+      "passive_name": "Wakeful Loner",
+      "mechanics_r1": [
+        "Increases the wielder's ATK by 12%.",
+        "After the wielder casts an Intro Skill, increases the wielder's Basic Attack DMG Bonus by 24% for 14s.",
+        "When the wielder inflicts Hack - Shifting, increases the wielder's Basic Attack DMG Bonus by 12% for 14s.",
+        "When the wielder inflicts Hack - Shifting, increases the ATK of Resonators in the team by 24% for 30s.",
+        "Effects with the same name do not stack."
+      ],
+      "refinement_scaling": [
+        "Wielder ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Intro Skill Basic Attack DMG Bonus: 24% / 30% / 36% / 42% / 48%",
+        "Hack - Shifting Basic Attack DMG Bonus: 12% / 15% / 18% / 21% / 24%",
+        "Team Resonators' ATK increase: 24% / 30% / 36% / 42% / 48%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "No resource cost, cooldown, off-field limitation, or additional damage-type condition is specified."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Skull Thrasher",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/603088",
+      "type": "Pistol",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit DMG +72.0%",
+      "passive_r1": "Wakeful Loner: Increases ATK by 12%. Casting Intro Skill increases the wielder's Basic Attack DMG Bonus by 24% for 14s.\n\nInflicting Hack - Shifting increases the wielder's Basic Attack DMG Bonus by 12% for 14s, and the ATK of the Resonators in the team by 24% for 30s. Effects of the same name do not stack."
+    }
+  },
+  {
+    "name": "Solsworn Ciphers",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/585863",
+    "data": {
+      "passive_name": "Sunward",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Casting Intro Skill or Echo Skill grants 32% Echo Skill DMG Amplification for 15s.",
+        "When dealing Echo Skill DMG, Aero DMG ignores 10% of the target's DEF for 6s.",
+        "No resource, stack, cooldown, party-wide, next-character, or off-field limitation is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Echo Skill DMG Amplification: 32% / 40% / 48% / 56% / 64%",
+        "Aero DEF ignored: 10% / 12.5% / 15% / 17.5 / 20%"
+      ],
+      "rank_coverage": "R1–R5 provided in document order.",
+      "gaps": [
+        "The R4 rank text shows the Aero DEF ignore value as “17.5” without a percent sign; it is reproduced exactly as supplied."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Solsworn Ciphers",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/585863",
+      "type": "Gauntlet",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.6%",
+      "passive_r1": "Sunward: Increases ATK by 12%. Casting Intro Skill or Echo Skill grants 32% Echo Skill DMG Amplification for 15s. When dealing Echo Skill DMG, Aero DMG ignores 10% of the target's DEF for 6s."
+    }
+  },
+  {
+    "name": "Spectral Trigger",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/603085",
+    "data": {
+      "passive_name": "Sunken Dream",
+      "mechanics_r1": [
+        "Increases the wielder’s ATK by 12%.",
+        "Casting Resonance Skill grants the wielder 20% Spectro DMG Bonus for 14s, stacking up to 2 times.",
+        "The Spectro DMG Bonus duration resets when a new stack is gained.",
+        "Inflicting Hack - Shifting grants the wielder 30% Heavy Attack DMG Amplification for 14s.",
+        "While the Heavy Attack DMG Amplification is active, the wielder’s Heavy Attack DMG ignores 10% of the target’s DEF.",
+        "No party-wide, next-character, off-field, resource, or cooldown effects are stated in the supplied evidence."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Spectro DMG Bonus per stack: 20% / 25% / 30% / 35% / 40%",
+        "Heavy Attack DMG Amplification: 30% / 37.5% / 45% / 52.5% / 60%",
+        "Target DEF ignored by Heavy Attack DMG: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1-R5; all five supplied rank entries correspond to R1-R5.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Spectral Trigger",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/603085",
+      "type": "Pistol",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.6%",
+      "passive_r1": "Sunken Dream: Increases ATK by 12%. Casting Resonance Skill grants 20% Spectro DMG Bonus to the wielder for 14s, stacking up to 2 times. The effect's duration resets with new stacks.\n\nInflicting Hack - Shifting grants 30% Heavy Attack DMG Amplification to the wielder for 14s, during which Heavy Attack DMG ignores 10% of the target's DEF."
+    }
+  },
+  {
+    "name": "Spectrum Blaster",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/570863",
+    "data": {
+      "passive_name": "Attendance Exemption Protocol",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Casting Intro Skill or hitting a target with Basic Attack increases the wielder’s Basic Attack DMG by 36% for 4s.",
+        "During Basic Attacks, each time the wielder inflicts Tune Rupture - Shifting or Tune Strain - Shifting, all DMG dealt by Resonators in the team increases by 8% for 30s.",
+        "The team-wide DMG increase can stack up to 3 times.",
+        "Effects with the same name cannot stack.",
+        "No cooldown, off-field restriction, next-character effect, or DEF/RES ignore is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Wielder’s Basic Attack DMG increase: 36% / 45% / 54% / 63% / 72%",
+        "Team-wide all DMG increase per stack: 8% / 10% / 12% / 14% / 16%"
+      ],
+      "rank_coverage": "R1-R5; all five supplied ranks are covered.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Spectrum Blaster",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/570863",
+      "type": "Pistol",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit. Rate +24.3%",
+      "passive_r1": "Attendance Exemption Protocol: Increases ATK by 12%. Casting Intro Skill or hitting the target with Basic Attack increases the wielder's Basic Attack DMG by 36% for 4s. Each time the wielder inflicts Tune Rupture - Shifting or Tune Strain - Shifting during Basic Attacks, all DMG dealt by Resonators in the team is increased by 8% for 30s, up to 3 stacks. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Starfield Calibrator",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/570864",
+    "data": {
+      "passive_name": "Definite Solution",
+      "mechanics_r1": [
+        "Increases the wielder's DEF by 16%.",
+        "Casting Resonance Skill restores 8 points of Concerto Energy; this can trigger once every 20 seconds.",
+        "When the wielder heals Resonators, all nearby Resonators in the team gain 20% Crit. DMG for 4 seconds.",
+        "Effects with the same name cannot stack."
+      ],
+      "refinement_scaling": [
+        "DEF increase: 16% / 20% / 24% / 28% / 32%",
+        "Concerto Energy restored: 8 points / 10 points / 12 points / 14 points / 16 points",
+        "Nearby team Resonators' Crit. DMG increase: 20% / 25% / 30% / 35% / 40%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Starfield Calibrator",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/570864",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "412",
+      "secondary90": "Energy Regen +77.0%",
+      "passive_r1": "Definite Solution: Increases DEF by 16%. Casting Resonance Skill restores 8 points of Concerto Energy. This effect can be triggered once every 20s. When the wielder heals Resonators, increases Crit. DMG of all nearby Resonators in the team by 20% for 4s. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Static Mist",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455904",
+    "data": {
+      "passive_name": "Stormy Resolution",
+      "mechanics_r1": [
+        "Increases Energy Regen by 12.8%.",
+        "When Outro Skill is cast, increases the incoming Resonator’s ATK by 10%.",
+        "The ATK increase can stack up to 1 time.",
+        "The ATK increase lasts for 14s.",
+        "No cooldown, damage-type bonus, damage amplification, DEF/RES ignore, or off-field limitation is stated."
+      ],
+      "refinement_scaling": [
+        "Energy Regen: 12.8% / 16% / 19.2% / 22.4% / 25.6%",
+        "Incoming Resonator ATK increase: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Static Mist",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455904",
+      "type": "Pistol",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.3%",
+      "passive_r1": "Stormy Resolution: Increases Energy Regen by 12.8%. When Outro Skill is cast, increases the incoming Resonator's ATK by 10%, stacking up to 1 time(s). This effect lasts for 14s."
+    }
+  },
+  {
+    "name": "Stellar Symphony",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/474386",
+    "data": {
+      "passive_name": "Astral Evolvement",
+      "mechanics_r1": [
+        "Increases the equipped character’s HP by 12%.",
+        "Casting Resonance Liberation restores 8 Concerto Energy; this can trigger once every 20s.",
+        "Casting a Resonance Skill that heals increases nearby party members’ ATK by 14% for 30s.",
+        "The ATK-increase effect is a party buff, not a damage bonus, damage amplification, or DEF/RES reduction effect.",
+        "Effects with the same name cannot stack."
+      ],
+      "refinement_scaling": [
+        "HP increase: 12% / 15% / 18% / 21% / 24%",
+        "Concerto Energy restored: 8 / 10 / 12 / 14 / 16",
+        "Nearby party members’ ATK increase: 14% / 17.5% / 21% / 24.5% / 28%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Stellar Symphony",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/474386",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "412",
+      "secondary90": "Energy Regen +77.0%",
+      "passive_r1": "Astral Evolvement: Increase HP by 12%. Restore 8 Concerto Energy when casting Resonance Liberation. This effect can be triggered once every 20s. When casting Resonance Skill that heals, increase nearby party members' ATK by 14% for 30s. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Stringmaster",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455927",
+    "data": {
+      "passive_name": "Electric Amplification",
+      "mechanics_r1": [
+        "Increases DMG Bonus by 12%.",
+        "When the wielder deals Resonance Skill DMG, increases ATK by 12%, stacking up to 2 times.",
+        "The Resonance Skill-triggered ATK increase lasts 5s.",
+        "When the equipped Resonator is off-field, their ATK is increased by an additional 12%."
+      ],
+      "refinement_scaling": [
+        "DMG Bonus: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Skill-triggered ATK increase per stack: 12% / 15% / 18% / 21% / 24%",
+        "Off-field additional ATK increase: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "No cooldown or resource requirement is stated.",
+        "The effect does not specify a damage type for the DMG Bonus.",
+        "No party-wide, next-character, DEF/RES-ignoring, or damage-amplification effect is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Stringmaster",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455927",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit Rate +35.9%",
+      "passive_r1": "Electric Amplification: Increases the DMG Bonus by 12%. When dealing Resonance Skill DMG, increases ATK by 12%, stacking up to 2. This effect lasts for 5s. When the equipped Resonator is not on the field, increases their ATK by an additional 12%."
+    }
+  },
+  {
+    "name": "The Last Dance",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/491970",
+    "data": {
+      "passive_name": "Silent Eulogy",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "When Intro Skill or Resonance Liberation is cast, increases Resonance Skill DMG Bonus by 48% for 5s.",
+        "The effect's beneficiary, stack behavior, resource cost, cooldown, and off-field limitations are not specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Skill DMG Bonus: 48% / 60% / 72% / 84% / 96%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The supplied evidence does not specify whether the effects apply to the wielder, the party, or another character.",
+        "No stack limit, cooldown, resource requirement, damage amplification distinction, DEF/RES interaction, or off-field restriction is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "The Last Dance",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/491970",
+      "type": "Pistol",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit DMG +72.0%",
+      "passive_r1": "Silent Eulogy: Increases ATK by 12%. Every time Intro Skill or Resonance Liberation is cast, Resonance Skill DMG Bonus increases by 48% for 5s."
+    }
+  },
+  {
+    "name": "Thousandfold Deliverance",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/614635",
+    "data": {
+      "passive_name": "Hark, Spirits and Stars",
+      "mechanics_r1": [
+        "Grants 12% All-Attribute DMG Bonus.",
+        "When the active Resonator casts an Intro Skill or gains a Shield, grants 1 stack each of Nature's Order and Cradle of Life.",
+        "Shield-based stack gain can trigger once every 0.5s. Both effects can stack up to 6 times and last for 7s.",
+        "Switching to another Resonator immediately ends Nature's Order and Cradle of Life.",
+        "Nature's Order increases Crit. DMG by 4% per stack, up to 24%. At 6 stacks, Heavy Attack DMG gains 12% Crit. Rate.",
+        "Cradle of Life is consumed when casting a Heavy Attack, consuming up to 2 stacks. Each stack consumed makes Heavy Attack DMG ignore 15% of the target's DEF, up to 30%. This DEF-ignoring effect lasts for 2s."
+      ],
+      "refinement_scaling": [
+        "All-Attribute DMG Bonus: 12% / 15% / 18% / 21% / 24%",
+        "Nature's Order Crit. DMG per stack: 4% / 5% / 6% / 7% / 8%",
+        "Nature's Order maximum Crit. DMG: 24% / 30% / 36% / 42% / 48%",
+        "Heavy Attack DMG Crit. Rate at 6 Nature's Order stacks: 12% / 15% / 18% / 21% / 24%",
+        "Cradle of Life Heavy Attack DEF ignore per stack consumed: 15% / 17.5% / 20% / 22.5% / 25%",
+        "Maximum Heavy Attack DEF ignore from Cradle of Life: 30% / 35% / 40% / 45% / 50%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Thousandfold Deliverance",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/614635",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "412",
+      "secondary90": "HP +72.2%",
+      "passive_r1": "Hark, Spirits and Stars: Grants 12% All-Attribute DMG Bonus. Casting Intro Skill or gaining a Shield as the active Resonator grants 1 stack of Nature's Order and 1 stack of Cradle of Life. This effect can be triggered via gaining a Shield once every 0.5s, stacking up to 6 times, lasting for 7s. \n\nSwitching to another Resonator ends both Nature's Order and Cradle of Life immediately. Nature's Order: Crit. DMG is increased by 4%, up to 24%. When Nature's Order reaches 6 stacks, the Crit. Rate of Heavy Attack DMG is increased by 12%. Cradle of Life: Casting Heavy Attack consumes up to 2 stacks of Cradle of Life. For every 1 stack of Cradle of Life consumed, Heavy Attack DMG ignores 15% of the target's DEF, up to 30%. The effect lasts for 2s."
+    }
+  },
+  {
+    "name": "Thunderflare Dominion",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/544473",
+    "data": {
+      "passive_name": "Thunderblaze Eminence",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Casting an Intro Skill or Resonance Skill increases Heavy Attack DMG by 20% for 15s.",
+        "Obtaining a Shield enables Heavy Attack DMG to ignore 7.2% of the target's DEF for 7s.",
+        "The DEF-ignore effect can stack up to 5 times and triggers once every 0.5s.",
+        "The evidence does not specify party-wide behavior, next-character effects, or off-field limitations."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Heavy Attack DMG increase: 20% / 25% / 30% / 35% / 40%",
+        "Target DEF ignored: 7.2% / 8.4% / 9.6% / 10.8% / 12%"
+      ],
+      "rank_coverage": "R1-R5; all five supplied rank entries are covered.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Thunderflare Dominion",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/544473",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "675",
+      "secondary90": "Crit Rate +12.1%",
+      "passive_r1": "Thunderblaze Eminence: Increases ATK by 12%. Casting Intro Skill or Resonance Skill increases Heavy Attack DMG by 20% for 15s. Obtaining Shield allows Heavy Attack DMG to ignore 7.2% of the target's DEF for 7s, stacking up to 5 times. This effect is triggered once every 0.5s."
+    }
+  },
+  {
+    "name": "Tragicomedy",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/491971",
+    "data": {
+      "passive_name": "Fool's Warble",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Casting Basic Attack or Intro Skill increases Heavy Attack DMG Bonus by 48% for 3 seconds.",
+        "The effect is a damage bonus, not damage amplification or DEF/RES ignore.",
+        "No resource, stack, cooldown, party-wide, next-character, or off-field condition is stated in the fetched evidence."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Heavy Attack DMG Bonus: 48% / 60% / 72% / 84% / 46%"
+      ],
+      "rank_coverage": "R1-R5 covered in the supplied rank array.",
+      "gaps": [
+        "The supplied evidence does not specify whether the effects apply beyond the weapon user or how repeated triggers interact.",
+        "R5 lists a Heavy Attack DMG Bonus of 46%, exactly as provided, despite being lower than the R4 value."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Tragicomedy",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/491971",
+      "type": "Gauntlet",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.3%",
+      "passive_r1": "Fool's Warble: Increases ATK by 12%. Every time Basic Attack or Intro Skill is cast, Heavy Attack DMG Bonus increases by 48% for 3s."
+    }
+  },
+  {
+    "name": "Unflickering Valor",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/498528",
+    "data": {
+      "passive_name": "Laughter Prevails",
+      "mechanics_r1": [
+        "Increases the wielder’s Crit. Rate by 8%.",
+        "Casting Resonance Liberation grants a 24% Basic Attack DMG Bonus for 10s.",
+        "Dealing Basic Attack DMG grants a 24% Basic Attack DMG Bonus for 4s.",
+        "The effect specifies no resource cost, stacks, cooldown, party-wide application, next-character effect, off-field condition, or DEF/RES ignore."
+      ],
+      "refinement_scaling": [
+        "Crit. Rate: 8% / 10% / 12% / 14% / 16%",
+        "Resonance Liberation-triggered Basic Attack DMG Bonus: 24% / 30% / 36% / 42% / 48%",
+        "Basic Attack DMG-triggered Basic Attack DMG Bonus: 24% / 30% / 36% / 42% / 48%"
+      ],
+      "rank_coverage": "R1-R5; all five supplied ranks are covered in document order.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Unflickering Valor",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/498528",
+      "type": "Sword",
+      "rarity": "5★",
+      "atk90": "412.5",
+      "secondary90": "Energy Regen +77.04%",
+      "passive_r1": "Laughter Prevails: Increase Crit. Rate by 8%. Casting Resonance Liberation gives 24% Basic Attack DMG Bonus for 10s. Dealing Basic Attack DMG gives 24% Basic Attack DMG Bonus for 4s."
+    }
+  },
+  {
+    "name": "Verdant Summit",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455951",
+    "data": {
+      "passive_name": "Swordsworn",
+      "mechanics_r1": [
+        "Grants a 12% DMG Bonus.",
+        "Casting Intro Skill or Resonance Liberation increases Heavy Attack DMG Bonus by 24%.",
+        "The Heavy Attack DMG Bonus effect can stack up to 2 times and lasts 14s.",
+        "No resource requirement or cooldown is stated.",
+        "The supplied text does not specify party-wide application, next-character effects, or off-field limitations."
+      ],
+      "refinement_scaling": [
+        "DMG Bonus: 12% / 15% / 18% / 21% / 24%",
+        "Heavy Attack DMG Bonus per trigger: 24% / 30% / 36% / 42% / 48%"
+      ],
+      "rank_coverage": "R1-R5; all five refinement ranks are provided.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Verdant Summit",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455951",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.6%",
+      "passive_r1": "Swordsworn: Increases DMG Bonus by 12%. Every time Intro Skill or Resonance Liberation is cast, increases Heavy Attack DMG Bonus by 24%, stacking up to 2 time(s). This effect lasts for 14s."
+    }
+  },
+  {
+    "name": "Verity's Handle",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/464110",
+    "data": {
+      "passive_name": "Ad Veritatem",
+      "mechanics_r1": [
+        "The wielder gains 12% Attribute DMG Bonus.",
+        "When the wielder uses Resonance Liberation, they gain 48% Resonance Liberation DMG Bonus for 8s.",
+        "Each time the wielder casts a Resonance Skill, the Resonance Liberation DMG Bonus duration is extended by 5s, up to 3 times.",
+        "The effects apply to the wielder; no party-wide, next-character, off-field, resource, or cooldown effects are stated."
+      ],
+      "refinement_scaling": [
+        "Attribute DMG Bonus: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Liberation DMG Bonus: 48% / 60% / 72% / 84% / 96%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Verity's Handle",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/464110",
+      "type": "Gauntlet",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit Rate +24.3%",
+      "passive_r1": "Ad Veritatem: Gain 12% Attribute DMG Bonus. When using Resonance Liberation, the wielder gains 48% Resonance Liberation DMG Bonus for 8s. This effect can be extended by 5 seconds each time Resonance Skills are cast, up to 3 times."
+    }
+  },
+  {
+    "name": "Whispers of Sirens",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/506482",
+    "data": {
+      "passive_name": "From the Deep",
+      "mechanics_r1": [
+        "The wielder gains 12% ATK.",
+        "Within 10 seconds after casting Intro Skill or a Basic Attack, casting Echo Skill grants 1 stack of Gentle Dream.",
+        "Echoes with the same name can trigger Gentle Dream only once. Gentle Dream stacks up to 2 times and lasts for 10 seconds.",
+        "At 1 stack, the wielder gains 40% Basic Attack DMG Bonus.",
+        "At 2 stacks, the wielder's Echo Skill no longer refreshes Gentle Dream's duration. Reaching 2 stacks activates this effect at most once every 10 seconds.",
+        "At 2 stacks, the wielder ignores 12% of the target's Havoc RES.",
+        "Switching to another Resonator ends Gentle Dream early.",
+        "The Basic Attack bonus is DMG Bonus, while the Havoc effect is RES ignore; no party-wide, next-character, or separate off-field effect is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Basic Attack DMG Bonus at 1 stack: 40% / 50% / 60% / 70% / 80%",
+        "Havoc RES ignored at 2 stacks: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Whispers of Sirens",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/506482",
+      "type": "Rectifier",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit DMG +72.00%",
+      "passive_r1": "From the Deep: Increases ATK by 12%. Casting Echo Skill within 10s after casting Intro Skill or basic Attack grants 1 stack of Gentle Dream. Echoes with the same name can only trigger this effect once, stacking up to 2 times, lasting for 10s.\n\nWhen reaching 2 stacks, casting Echo Skill no longer resets the duration of this effect and the effect activates up to once per 10s. Switching to another Resonator also ends this effect early. Gaining 1 stack grants 40% Basic Attack DMG Bonus and reaching 2 stacks ignores 12% of the target's Havoc RES."
+    }
+  },
+  {
+    "name": "Wildfire Mark",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/524869",
+    "data": {
+      "passive_name": "Blazing Starfire",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "Performing an Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 24% for 6s.",
+        "Dealing Heavy Attack DMG extends the Resonance Liberation DMG effect by 4s, up to 1 time.",
+        "Each successful extension grants all Resonators in the team 24% Fusion DMG Bonus for 30s.",
+        "Effects with the same name cannot stack.",
+        "No resource cost, cooldown, off-field restriction, next-character effect, or DEF/RES ignore is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Resonance Liberation DMG increase: 24% / 30% / 36% / 42% / 48%",
+        "Fusion DMG Bonus to all Resonators: 24% / 30% / 36% / 42% / 48%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Wildfire Mark",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/524869",
+      "type": "Broadblade",
+      "rarity": "5★",
+      "atk90": "587",
+      "secondary90": "Crit DMG +48.60%",
+      "passive_r1": "Blazing Starfire: Increases ATK by 12%. Performing Intro Skill or Resonance Liberation increases Resonance Liberation DMG by 24% for 6s. Dealing Heavy Attack DMG extends this effect by 4s, up to 1 time. Each successful extension gives 24% Fusion DMG Bonus to all Resonators in the team for 30s. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Woodland Aria",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/514610",
+    "data": {
+      "passive_name": "Lingering Summer Tune",
+      "mechanics_r1": [
+        "Increases ATK by 12%.",
+        "When the wielder inflicts Aero Erosion on a target, grants 24% Aero DMG Bonus for 10s.",
+        "Hitting a target affected by Aero Erosion reduces that target's Aero RES by 10% for 20s.",
+        "Effects with the same name cannot stack.",
+        "The supplied evidence does not specify whether the effects apply to the wielder, the party, the next character, or off-field characters; no resource or cooldown is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "Aero DMG Bonus: 24% / 30% / 36% / 42% / 48%",
+        "Aero RES reduction: 10% / 11.5% / 13% / 14.5% / 16%"
+      ],
+      "rank_coverage": "R1-R5; all five refinement ranks are provided.",
+      "gaps": [
+        "The evidence does not specify party-versus-wielder targeting beyond the trigger wording.",
+        "No next-character or off-field limitations are stated.",
+        "No resource, stack count beyond the non-stacking rule, or cooldown is stated.",
+        "No DEF ignore or damage amplification effect is stated; the listed effects are Aero DMG Bonus and Aero RES reduction."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Woodland Aria",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/514610",
+      "type": "Pistol",
+      "rarity": "5★",
+      "atk90": "500",
+      "secondary90": "Crit Rate +36%",
+      "passive_r1": "Lingering Summer Tune: ATK is increased by 12%. Inflicting Aero Erosion on the target gives 24% Aero DMG Bonus for 10s. Hitting targets with Aero Erosion reduces their Aero RES by 10% for 20s. Effects of the same name cannot be stacked."
+    }
+  },
+  {
+    "name": "Aether Strike",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/544845",
+    "data": {
+      "passive_name": "Oath of Tide Hunters",
+      "mechanics_r1": [
+        "After the wielder casts Resonance Liberation, increases the wielder's ATK.",
+        "After the wielder casts Resonance Liberation, grants Resonance Liberation DMG Bonus.",
+        "Both effects last 15s."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 7.2% / 11.1% / 15.1% / 19% / 23%",
+        "Resonance Liberation DMG Bonus: 10.8% / 16.7% / 22.6% / 28.6% / 34.5%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "No cooldown, stack behavior, refresh behavior, resource requirement, off-field limitation, party-wide effect, next-character effect, or DEF/RES interaction is specified."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Aether Strike",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/544845",
+      "type": "Gauntlet",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Crit DMG +40.5%",
+      "passive_r1": "Oath of Tide Hunters: Casting Resonance Liberation increases ATK by 7.2% and grants 10.8% Resonance Liberation DMG Bonus for 15s."
+    }
+  },
+  {
+    "name": "Amity Accord",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455914",
+    "data": {
+      "passive_name": "Camaraderie",
+      "mechanics_r1": [
+        "When the wielder casts Intro Skill, Resonance Liberation DMG Bonus increases by 20%.",
+        "The effect lasts for 15s.",
+        "The effect is a DMG Bonus, not damage amplification or DEF/RES ignore.",
+        "The source does not specify resource costs, stacks, cooldown, party-wide targeting, next-character effects, or off-field restrictions."
+      ],
+      "refinement_scaling": [
+        "Resonance Liberation DMG Bonus: 20% / 25% / 30% / 35% / 40%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The supplied evidence does not specify whether the bonus applies only to the wielder or to the party.",
+        "No stacking behavior, refresh behavior, cooldown, resource interaction, next-character restriction, or off-field limitation is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Amity Accord",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455914",
+      "type": "Gauntlet",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "DEF +61.6%",
+      "passive_r1": "Camaraderie: When Intro Skill is cast, increases Resonance Liberation DMG Bonus by 20%, lasting for 15s."
+    }
+  },
+  {
+    "name": "Augment",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455926",
+    "data": {
+      "passive_name": "Forgiving Resilience",
+      "mechanics_r1": [
+        "Casting Resonance Liberation increases the caster's ATK.",
+        "The ATK increase lasts for 15s."
+      ],
+      "refinement_scaling": [
+        "Caster ATK increase: 15% / 23.25% / 31.5% / 39.75% / 48%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "No resource cost, stack mechanic, cooldown, party-wide effect, off-field restriction, next-character effect, damage-type bonus, damage amplification, or DEF/RES-ignore effect is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Augment",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455926",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Crit Rate +20.3%",
+      "passive_r1": "Forgiving Resilience: When Resonance Liberation is cast, increases the caster's ATK by 15%, lasting for 15s."
+    }
+  },
+  {
+    "name": "Aureate Zenith",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/544589",
+    "data": {
+      "passive_name": "Oath of Tide Hunters",
+      "mechanics_r1": [
+        "Casting Resonance Liberation increases ATK by 7.2%.",
+        "Casting Resonance Liberation grants 10.8% Heavy Attack DMG Bonus for 15s.",
+        "The supplied effect does not specify the buff recipient, resource cost, stacks, cooldown, off-field behavior, or DEF/RES interaction."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 7.2% / 11.1% / 15.1% / 19% / 23%",
+        "Heavy Attack DMG Bonus: 10.8% / 16.7% / 22.6% / 28.6% / 34.5%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The evidence does not specify whether the buffs apply to the wielder or the party.",
+        "No resource, stack, cooldown, off-field limitation, or DEF/RES-ignore effect is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Aureate Zenith",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/544589",
+      "type": "Broadblade",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Crit DMG +40.5%",
+      "passive_r1": "Oath of Tide Hunters: Casting Resonance Liberation increases ATK by 7.2% and grants 10.8% Heavy Attack DMG Bonus for 15s."
+    }
+  },
+  {
+    "name": "Autumntrace",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455950",
+    "data": {
+      "passive_name": "Edge Direction",
+      "mechanics_r1": [
+        "Dealing Basic Attack DMG or Heavy Attack DMG increases ATK by 4%.",
+        "The effect can stack up to 5 times.",
+        "Each stack lasts for 7s.",
+        "The effect can trigger once every 1s."
+      ],
+      "refinement_scaling": [
+        "ATK increase per stack: 4% / 6.2% / 8.4% / 10.6% / 12.8%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Autumntrace",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455950",
+      "type": "Broadblade",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Crit Rate +20.3%",
+      "passive_r1": "Edge Direction: Increases ATK by 4% upon dealing Basic Attack DMG or Heavy Attack DMG, stacking up to 5 time(s). This effect lasts for 7s and can be triggered 1 time(s) every 1s."
+    }
+  },
+  {
+    "name": "Broadblade#41",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455953",
+    "data": {
+      "passive_name": "Veteran",
+      "mechanics_r1": [
+        "While the Resonator's HP is above 80%, increases ATK by 12%.",
+        "While the Resonator's HP is below 40%, dealing Basic Attack DMG or Heavy Attack DMG gives 5% healing.",
+        "The healing effect can trigger 1 time(s) every 8s.",
+        "No stacks, duration, off-field restriction, party effect, next-character effect, damage amplification, or DEF/RES ignore is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 12% / 15% / 18% / 21% / 24%",
+        "HP threshold for ATK increase: above 80% / above 80% / above 80% / above 80% / above 80%",
+        "HP threshold for healing: below 40% / below 50% / below 60% / below 70% / below 80%",
+        "Healing: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The supplied text does not specify the healing recipient or what the healing percentage is calculated from."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Broadblade#41",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455953",
+      "type": "Broadblade",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Energy Regen +32.3%",
+      "passive_r1": "Veteran: When the Resonator's HP is above 80%, increases ATK by 12%. When the Resonator's HP is below 40%, gives 5% healing when dealing Basic Attack DMG or Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s."
+    }
+  },
+  {
+    "name": "Cadenza",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455903",
+    "data": {
+      "passive_name": "Ceaseless Aria",
+      "mechanics_r1": [
+        "When Resonance Skill is cast, restores 8 Concerto Energy.",
+        "This effect can trigger 1 time every 20 seconds.",
+        "The source does not specify the energy recipient or any party/off-field limitation.",
+        "No stacks, duration, damage bonus, damage amplification, or DEF/RES ignore effect is stated."
+      ],
+      "refinement_scaling": [
+        "Concerto Energy restored: 8 / 10 / 12 / 14 / 16"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "The source does not specify who receives the restored Concerto Energy."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Cadenza",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455903",
+      "type": "Pistol",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "Energy Regen +51.8%",
+      "passive_r1": "Ceaseless Aria: When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Call of the Abyss",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/492574",
+    "data": {
+      "passive_name": "Pole of the Celestial Dome",
+      "mechanics_r1": [
+        "Casting Resonance Liberation increases the wielder's Healing Bonus by 16% for 15s.",
+        "The effect applies to the Resonator wielding the weapon.",
+        "No resource cost, stack mechanic, cooldown, party-wide effect, off-field restriction, damage bonus, damage amplification, or DEF/RES ignore effect is stated."
+      ],
+      "refinement_scaling": [
+        "Healing Bonus: 16% / 20% / 24% / 28% / 32%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Call of the Abyss",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/492574",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "Energy Regen +51.80%",
+      "passive_r1": "Pole of the Celestial Dome: Casting Resonance Liberation increases the Resonator's Healing Bonus by 16% for 15s."
+    }
+  },
+  {
+    "name": "Celestial Spiral",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/474517",
+    "data": {
+      "passive_name": "Intergalactic Gaze",
+      "mechanics_r1": [
+        "Casting the Resonance Skill grants 6 Resonance Energy.",
+        "Casting the Resonance Skill increases ATK by 10% for 16s.",
+        "The effect can trigger once every 20s.",
+        "No stack behavior, party-wide effect, next-character effect, off-field limitation, or damage-type/DEF/RES modification is stated."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy granted: 6 / 7 / 8 / 9 / 10",
+        "ATK increase: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The source does not specify whether the ATK increase affects only the wielder or other party members."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Celestial Spiral",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/474517",
+      "type": "Gauntlet",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Intergalactic Gaze: Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s."
+    }
+  },
+  {
+    "name": "Comet Flare",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455925",
+    "data": {
+      "passive_name": "Luminous Protection",
+      "mechanics_r1": [
+        "Hitting a target with a Basic Attack or Heavy Attack increases Healing Bonus by 3% per stack.",
+        "The effect can stack up to 3 times.",
+        "Each effect instance lasts for 8 seconds.",
+        "The effect can trigger once every 0.6 seconds.",
+        "The affected unit, party-wide scope, off-field behavior, next-character effect, and resource usage are not specified.",
+        "The effect modifies Healing Bonus; no damage bonus, damage amplification, or DEF/RES ignore is stated."
+      ],
+      "refinement_scaling": [
+        "Healing Bonus per stack: 3% / 3.5% / 4% / 4.5% / 5%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The supplied evidence does not specify whether the Healing Bonus applies to the wielder only or to the party.",
+        "No off-field limitation, next-character effect, resource mechanic, damage-type bonus, or DEF/RES interaction is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Comet Flare",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455925",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "HP +30.4%",
+      "passive_r1": "Luminous Protection: When hitting a target with Basic Attacks or Heavy Attacks, increases Healing Bonus by 3%, stacking up to 3 time(s). This effect lasts for 8s and can be triggered 1 time(s) every 0.6s."
+    }
+  },
+  {
+    "name": "Commando of Conviction",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455938",
+    "data": {
+      "passive_name": "Unyielding",
+      "mechanics_r1": [
+        "When the wielder casts Intro Skill, ATK increases by 15% for 15 seconds.",
+        "No resource, stack, cooldown, party-wide, next-character, off-field, damage-type, damage-amplification, or DEF/RES-ignore effect is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 15% / 18.75% / 22.5% / 26.25% / 30%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Commando of Conviction",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455938",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Unyielding: When Intro Skill is cast, increases ATK by 15%, lasting for 15s."
+    }
+  },
+  {
+    "name": "Dauntless Evernight",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455949",
+    "data": {
+      "passive_name": "Battlebound",
+      "mechanics_r1": [
+        "Casting Intro Skill increases ATK by 8%.",
+        "Casting Intro Skill increases DEF by 15%.",
+        "The ATK and DEF increases last for 15s.",
+        "No resource, stacks, cooldown, damage bonus, damage amplification, DEF/RES ignore, next-character effect, or off-field limitation is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 8% / 10% / 12% / 14% / 16%",
+        "DEF increase: 15% / 18.75% / 22.5% / 26.25% / 30%"
+      ],
+      "rank_coverage": "R1-R5; all five supplied rank entries are covered.",
+      "gaps": [
+        "The evidence does not specify whether the ATK and DEF increases apply to the wielder or the party."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Dauntless Evernight",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455949",
+      "type": "Broadblade",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "DEF +61.6%",
+      "passive_r1": "Battlebound: When Intro Skill is cast, increases ATK by 8% and DEF by 15%, lasting for 15s."
+    }
+  },
+  {
+    "name": "Discord",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455948",
+    "data": {
+      "passive_name": "Ceaseless Aria",
+      "mechanics_r1": [
+        "Casting Resonance Skill restores 8 Concerto Energy.",
+        "This effect can trigger once every 20 seconds.",
+        "No stacks, damage bonus, damage amplification, DEF/RES ignore, duration, next-character effect, or off-field condition is stated."
+      ],
+      "refinement_scaling": [
+        "Concerto Energy restored per trigger: 8 / 10 / 12 / 14 / 16"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The source does not specify whether the Concerto Energy is restored to the wielder or another character."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Discord",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455948",
+      "type": "Broadblade",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "Energy Regen +51.8%",
+      "passive_r1": "Ceaseless Aria: When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Endless Collapse",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/474515",
+    "data": {
+      "passive_name": "Intergalactic Gaze",
+      "mechanics_r1": [
+        "Casting the Resonance Skill grants 6 Resonance Energy.",
+        "Casting the Resonance Skill increases ATK by 10% for 16s.",
+        "The effect can be triggered once every 20s."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy granted: 6 / 7 / 8 / 9 / 10",
+        "ATK increase: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "The supplied effect text does not specify whether the ATK increase applies to the wielder, the party, or another character.",
+        "No stack behavior, off-field limitation, damage-type bonus, damage amplification, or DEF/RES ignore effect is specified."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Endless Collapse",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/474515",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Intergalactic Gaze: Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s."
+    }
+  },
+  {
+    "name": "Fables of Wisdom",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/492569",
+    "data": {
+      "passive_name": "Rhetoric",
+      "mechanics_r1": [
+        "Dealing damage to enemies with Negative Statuses increases the wielder's ATK.",
+        "The ATK increase lasts for 10s.",
+        "The effect can trigger once per second.",
+        "The effect stacks up to 4 times.",
+        "The effect applies to the wielder; no party-wide, next-character, off-field, resource, damage-type, damage-amplification, or DEF/RES-ignore effects are stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase per stack: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Fables of Wisdom",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/492569",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Rhetoric: Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    }
+  },
+  {
+    "name": "Feather Edge",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/544590",
+    "data": {
+      "passive_name": "Oath of Tide Hunters",
+      "mechanics_r1": [
+        "After the wielder casts Resonance Liberation, ATK increases by 7.2%.",
+        "After the wielder casts Resonance Liberation, Resonance Liberation DMG gains a 10.8% bonus for 15s."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 7.2% / 11.1% / 15.1% / 19% / 23%",
+        "Resonance Liberation DMG Bonus: 10.8% / 16.7% / 22.6% / 28.6% / 34.5%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "No resource cost, stack mechanic, cooldown, party-sharing rule, next-character effect, or off-field limitation is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Feather Edge",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/544590",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Crit Rate +20.2%",
+      "passive_r1": "Oath of Tide Hunters: Casting Resonance Liberation increases ATK by 7.2% and grants 10.8% Resonance Liberation DMG Bonus for 15s."
+    }
+  },
+  {
+    "name": "Fusion Accretion",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/474512",
+    "data": {
+      "passive_name": "Intergalactic Gaze",
+      "mechanics_r1": [
+        "Casting the Resonance Skill grants 6 Resonance Energy.",
+        "Casting the Resonance Skill increases ATK by 10% for 16s.",
+        "The effect can be triggered once every 20s."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy granted: 6 / 7 / 8 / 9 / 10",
+        "ATK increase: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Fusion Accretion",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/474512",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Intergalactic Gaze: Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s."
+    }
+  },
+  {
+    "name": "Gauntlets#21D",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455973",
+    "data": {
+      "passive_name": "Mastermind",
+      "mechanics_r1": [
+        "After the wielder dashes or dodges, ATK increases by 8%.",
+        "After the trigger, Dodge Counter DMG increases by 50% for 8 seconds.",
+        "Performing a Dodge Counter restores HP equal to 5% of the wielder's Max HP.",
+        "The healing effect can trigger once every 6 seconds.",
+        "No resource, stack, party-sharing, next-character, off-field, damage-type, DEF/RES-ignore, or separate damage-amplification effect is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 8% / 10% / 12% / 14% / 16%",
+        "Dodge Counter DMG increase: 50% / 62.5% / 75% / 87.5% / 100%",
+        "Max HP healing: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1–R5 supported by the supplied rank effects.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Gauntlets#21D",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455973",
+      "type": "Gauntlet",
+      "rarity": "4★",
+      "atk90": "387",
+      "secondary90": "Energy Regen +38.9%",
+      "passive_r1": "Mastermind: When the Resonator dashes or dodges, increases ATK by 8%. Increases Dodge Counter DMG by 50%, lasting for 8s. When Dodge Counter is performed, heals the Resonator by 5% of their Max HP. This effect can be triggered 1 time(s) every 6s."
+    }
+  },
+  {
+    "name": "Helios Cleaver",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455947",
+    "data": {
+      "passive_name": "Plasma Recoiler",
+      "mechanics_r1": [
+        "After the wielder casts Resonance Skill, the passive increases the wielder's ATK by 3% every 2 seconds.",
+        "The ATK increase can stack up to 4 times.",
+        "The effect can be triggered once every 12 seconds.",
+        "The effect lasts within 12 seconds after Resonance Skill is cast.",
+        "When 4 stacks are reached, all stacks reset within 6 seconds.",
+        "The passive affects ATK only; no damage-type bonus, damage amplification, DEF/RES ignore, party-wide effect, next-character effect, or off-field condition is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase per stack: 3% / 3.75% / 4.5% / 5.25% / 6%"
+      ],
+      "rank_coverage": "R1-R5 covered; five rank entries are provided in document order.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Helios Cleaver",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455947",
+      "type": "Broadblade",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Plasma Recoiler: Within 12s after Resonance Skill is cast, increases ATK by 3% every 2s stacking up to 4 time(s). This effect can be triggered 1 time(s) every 12s. When the number of stacks reaches 4, all stacks will be reset within 6s."
+    }
+  },
+  {
+    "name": "Hollow Mirage",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455913",
+    "data": {
+      "passive_name": "Celestial Being",
+      "mechanics_r1": [
+        "On Resonance Liberation release, grants 3 Iron Armor stacks.",
+        "Each Iron Armor stack increases the wielder’s ATK and DEF by 3%.",
+        "Iron Armor stacks up to 3 times.",
+        "When the wielder takes damage, 1 Iron Armor stack is removed.",
+        "No cooldown, duration, party effect, off-field condition, damage-type bonus, damage amplification, or DEF/RES ignore is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase per Iron Armor stack: 3% / 3.5% / 4% / 4.5% / 5%",
+        "DEF increase per Iron Armor stack: 3% / 3.5% / 4% / 4.5% / 5%"
+      ],
+      "rank_coverage": "R1-R5; all five supplied rank entries are covered.",
+      "gaps": [
+        "The supplied evidence does not specify a cooldown or duration for Iron Armor.",
+        "The supplied evidence does not specify whether the effect persists off-field or affects party members.",
+        "The passive provides ATK and DEF increases; no damage bonus, damage amplification, or DEF/RES ignore is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Hollow Mirage",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455913",
+      "type": "Gauntlet",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Celestial Being: When Resonance Liberation is released, grants 3 stack(s) of Iron Armor. Each stack increases ATK and DEF by 3%, stacking up to 3 time(s). When the Resonator takes damage, reduces the number of stacks by 1."
+    }
+  },
+  {
+    "name": "Jinzhou Keeper",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455924",
+    "data": {
+      "passive_name": "Guardian",
+      "mechanics_r1": [
+        "When the wielder casts an Intro Skill, the caster's ATK increases by 8%.",
+        "When the wielder casts an Intro Skill, the caster's HP increases by 10%.",
+        "Both increases last 15 seconds."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 8% / 10% / 12% / 14% / 16%",
+        "HP increase: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Jinzhou Keeper",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455924",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "387",
+      "secondary90": "ATK +36.4%",
+      "passive_r1": "Guardian: When Intro Skill is cast, increases the caster's ATK by 8% and HP by 10%, lasting 15s."
+    }
+  },
+  {
+    "name": "Legend of Drunken Hero",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/492572",
+    "data": {
+      "passive_name": "Rhetoric",
+      "mechanics_r1": [
+        "When the wielder deals damage to an enemy with a Negative Status, the wielder gains 4% ATK for 10 seconds.",
+        "The effect can trigger once per second and stacks up to 4 times.",
+        "The bonus applies to the wielder only; no party-wide, next-character, off-field, damage-type, damage-amplification, or DEF/RES-ignore effects are stated.",
+        "No resource requirement is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase per stack: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The source does not define which effects qualify as Negative Statuses.",
+        "The source does not specify whether each stack has an independent duration or whether gaining a stack refreshes the duration of existing stacks."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Legend of Drunken Hero",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/492572",
+      "type": "Gauntlet",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Rhetoric: Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    }
+  },
+  {
+    "name": "Lumingloss",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455937",
+    "data": {
+      "passive_name": "Pale Gale",
+      "mechanics_r1": [
+        "After the wielder casts Resonance Skill, Basic Attack DMG and Heavy Attack DMG increase by 20%.",
+        "The effect can stack up to 1 time.",
+        "The effect lasts for 10 seconds.",
+        "The effect can trigger once every 1 second.",
+        "The text does not specify resource costs, party-wide effects, next-character effects, or off-field behavior."
+      ],
+      "refinement_scaling": [
+        "Basic Attack and Heavy Attack DMG increase: 20% / 31% / 42% / 53% / 64%"
+      ],
+      "rank_coverage": "R1-R5; R2-R5 from Theria Games, not confirmed by Game8's incomplete rank table.",
+      "gaps": [
+        "R2-R5 require an in-game or independent second-source check before precise optimization."
+      ]
+    },
+    "error": null,
+    "refinement_source": "https://theriagames.com/guide/wuthering-waves-lumingloss/",
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Lumingloss",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455937",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "387",
+      "secondary90": "ATK +36.4%",
+      "passive_r1": "Pale Gale: When Resonance Skill is cast, increases Basic Attack DMG and Heavy Attack DMG by 20%, stacking up to 1 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s."
+    }
+  },
+  {
+    "name": "Lunar Cutter",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455936",
+    "data": {
+      "passive_name": "Preordained",
+      "mechanics_r1": [
+        "The equipped Resonator gains 6 Oath stacks upon entering the battlefield.",
+        "Each Oath stack increases the equipped Resonator's ATK by 2%, up to 6 stacks.",
+        "Gaining the entry stacks can trigger once every 12s.",
+        "The equipped Resonator loses 1 Oath stack every 2s.",
+        "Upon defeating an enemy, the equipped Resonator gains 6 Oath stacks.",
+        "The effect applies to the equipped Resonator; no party-wide, next-character, off-field, damage-type, damage-amplification, or DEF/RES-ignore effect is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase per Oath stack: 2% / 2.5% / 3% / 3.5% / 4%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Lunar Cutter",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455936",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Preordained: Equipped Resonator gains 6 stack(s) of Oath upon entering the battlefield. Each stack icnreases ATK by 2%, up to 6 stacks. This effect can be triggered 1 time(s) every 12s. The equipped Resonator loses 1 stack(s) of Oath every 2s, and gains 6 stack(s) upon defeating an enemy."
+    }
+  },
+  {
+    "name": "Marcato",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455912",
+    "data": {
+      "passive_name": "Ceaseless Aria",
+      "mechanics_r1": [
+        "When Resonance Skill is cast, restores 8 Concerto Energy.",
+        "This effect can trigger 1 time every 20 seconds."
+      ],
+      "refinement_scaling": [
+        "Concerto Energy restored: 8 / 10 / 12 / 14 / 16"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "The source does not specify whether the Concerto Energy is restored to the wielder, the party, or another target.",
+        "No damage bonus, damage amplification, DEF/RES ignore, stacks, duration, or off-field limitation is stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Marcato",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455912",
+      "type": "Gauntlet",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "Energy Regen +51.8%",
+      "passive_r1": "Ceaseless Aria: When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Meditations on Mercy",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/492570",
+    "data": {
+      "passive_name": "Rhetoric",
+      "mechanics_r1": [
+        "When the wielder deals damage to an enemy with a Negative Status, the wielder's ATK increases by 4%.",
+        "The ATK increase lasts 10 seconds.",
+        "The effect can trigger once per second.",
+        "The effect can stack up to 4 times.",
+        "The effect increases ATK, not damage directly; no separate damage bonus, damage amplification, or DEF/RES ignore is stated.",
+        "The effect applies to the wielder; no party-wide, next-character, resource, or off-field condition is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase per stack: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The source does not define what qualifies as a Negative Status.",
+        "The source does not specify whether each stack has an independent duration or whether gaining a stack refreshes the full effect duration.",
+        "No resource cost or additional cooldown is stated beyond the once-per-second trigger limit."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Meditations on Mercy",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/492570",
+      "type": "Broadblade",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Rhetoric: Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    }
+  },
+  {
+    "name": "Novaburst",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455902",
+    "data": {
+      "passive_name": "Ever-Changing",
+      "mechanics_r1": [
+        "When the wielder dashes or dodges, increases their ATK by 4%.",
+        "The ATK increase can stack up to 3 times.",
+        "Each stack lasts for 8 seconds."
+      ],
+      "refinement_scaling": [
+        "ATK increase per stack: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Novaburst",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455902",
+      "type": "Pistol",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Ever-Changing: When the Resonator dashes or dodges, increases ATK by 4%, stacking up to 3 time(s). This effect lasts for 8s."
+    }
+  },
+  {
+    "name": "Ocean's Gift",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/498526",
+    "data": {
+      "passive_name": "Fish Catch",
+      "mechanics_r1": [
+        "When the wielder deals damage to an enemy affected by Spectro Frazzle, the wielder's Spectro DMG increases by 6%.",
+        "The effect gains 1 stack per second for 6 seconds, up to a maximum of 4 stacks."
+      ],
+      "refinement_scaling": [
+        "Spectro DMG increase: 6% / 7% / 8% / 9% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Ocean's Gift",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/498526",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.20%",
+      "passive_r1": "Fish Catch: Dealing DMG to enemies with Spectro Frazzle increases the wielder's Spectro DMG by 6%, gaining 1 stack per second for 6s, up to 4 stacks."
+    }
+  },
+  {
+    "name": "Overture",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455935",
+    "data": {
+      "passive_name": "Ceaseless Aria",
+      "mechanics_r1": [
+        "Casting Resonance Skill restores 8 Concerto Energy.",
+        "This effect can trigger once every 20 seconds."
+      ],
+      "refinement_scaling": [
+        "Concerto Energy restored: 8 / 10 / 12 / 14 / 16"
+      ],
+      "rank_coverage": "R1–R5 provided",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Overture",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455935",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "Energy Regen +51.8%",
+      "passive_r1": "Ceaseless Aria: When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Pistols#26",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455974",
+    "data": {
+      "passive_name": "Omniscient",
+      "mechanics_r1": [
+        "While the wielder takes no damage, their ATK increases by 6% every 5 seconds.",
+        "The ATK increase can stack up to 2 times.",
+        "The effect lasts for 8 seconds.",
+        "When the wielder takes damage, 1 stack is removed and the wielder is healed for 5% of their Max HP.",
+        "The effect applies to the wielder only; no party-wide, next-character, or off-field effect is specified.",
+        "This is an ATK increase, not a damage-type bonus, damage amplification, or DEF/RES ignore effect. No cooldown is stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase per trigger: 6% / 7.5% / 9% / 10.5% / 12%",
+        "Healing on taking damage: 5% of Max HP / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Pistols#26",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455974",
+      "type": "Pistol",
+      "rarity": "4★",
+      "atk90": "387",
+      "secondary90": "ATK +36.4%",
+      "passive_r1": "Omniscient: When the Resonator takes no damage, increases ATK by 6% every 5s, stacking up to 2 time(s). This effect lasts for 8s. When the Resonator takes damage, loses 1 stacks and heals them by 5% of Max HP."
+    }
+  },
+  {
+    "name": "Radiant Dawn",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/544744",
+    "data": {
+      "passive_name": "Oath of Tide Hunters",
+      "mechanics_r1": [
+        "Trigger: Casting Resonance Skill.",
+        "ATK increases by 9%.",
+        "Basic Attack DMG Bonus increases by 9%. This is a damage bonus, not stated as damage amplification or DEF/RES ignore.",
+        "The effects last for 10s.",
+        "The supplied effect does not specify whether the ATK increase or Basic Attack DMG Bonus applies to the wielder, the party, or another character.",
+        "No resources, stacks, cooldown, next-character effect, or off-field limitation are stated."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 9% / 13.9% / 18.9% / 23.8% / 28.8%",
+        "Basic Attack DMG Bonus: 9% / 13.9% / 18.9% / 23.8% / 28.8%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "The supplied effect does not specify the beneficiary or scope of the ATK increase and Basic Attack DMG Bonus.",
+        "No resource, stack, cooldown, next-character, or off-field behavior is provided."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Radiant Dawn",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/544744",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Crit DMG +40.5%",
+      "passive_r1": "Oath of Tide Hunters: Casting Resonance Skill increases ATK by 9% and grants 9% Basic Attack DMG Bonus for 10s."
+    }
+  },
+  {
+    "name": "Rectifier#25",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455916",
+    "data": {
+      "passive_name": "Dawnbringer",
+      "mechanics_r1": [
+        "When Resonance Skill is cast, if the Resonator's HP is below 60%, they are healed by 5% of their Max HP.",
+        "This healing effect can trigger 1 time every 8s.",
+        "If the Resonator's HP is above 60% when Resonance Skill is cast, their ATK increases by 12% for 10s."
+      ],
+      "refinement_scaling": [
+        "HP restoration amount: 5% of their Max HP / 6.25% / 7.5% / 8.75% / 10%",
+        "ATK increase: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The R2-R5 text states only the HP restoration percentage and does not repeat the R1 wording \"of their Max HP.\""
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Rectifier#25",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455916",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "Energy Regen +51.8%",
+      "passive_r1": "Dawnbringer: When Resonance Skill is cast, if the Resonator's HP is below 60%, heals them by 5% of their Max HP. This effect can be triggered 1 times(s) every 8s; if the Resonator's HP is above 60%, increases ATK by 12%, lasting for 10s."
+    }
+  },
+  {
+    "name": "Relativistic Jet",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/474513",
+    "data": {
+      "passive_name": "Intergalactic Gaze",
+      "mechanics_r1": [
+        "Casting the Resonance Skill grants 6 Resonance Energy.",
+        "Casting the Resonance Skill increases ATK by 10% for 16 seconds; the supplied effect does not specify a separate recipient.",
+        "The effect can trigger once every 20 seconds.",
+        "No stacks, damage-type bonus, damage amplification, DEF/RES ignore, party-wide effect, next-character effect, or off-field limitation is stated."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy granted: 6 / 7 / 8 / 9 / 10",
+        "ATK increase: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Relativistic Jet",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/474513",
+      "type": "Pistol",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Intergalactic Gaze: Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s."
+    }
+  },
+  {
+    "name": "Romance in Farewell",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/492571",
+    "data": {
+      "passive_name": "Rhetoric",
+      "mechanics_r1": [
+        "When the wielder deals damage to an enemy with a Negative Status, the wielder gains ATK.",
+        "The ATK increase lasts 10 seconds and can trigger once per second.",
+        "The effect stacks up to 4 times.",
+        "The effect benefits the wielder only; no party-wide, next-character, or off-field limitation is stated.",
+        "The effect is an ATK increase, not a damage bonus, damage amplification, or DEF/RES ignore effect."
+      ],
+      "refinement_scaling": [
+        "ATK increase per stack: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Romance in Farewell",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/492571",
+      "type": "Pistol",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Rhetoric: Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    }
+  },
+  {
+    "name": "Solar Flame",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/544594",
+    "data": {
+      "passive_name": "Oath of Tide Hunters",
+      "mechanics_r1": [
+        "Dealing Basic Attack or Heavy Attack DMG increases ATK by 2.2%.",
+        "The same effect grants 2.2% Heavy Attack DMG Bonus.",
+        "The ATK increase and Heavy Attack DMG Bonus stack up to 4 times.",
+        "Each stack lasts for 7s.",
+        "The effect can trigger once every 1s."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 2.2% / 3.4% / 4.7% / 5.9% / 7.2%",
+        "Heavy Attack DMG Bonus: 2.2% / 3.4% / 4.7% / 5.9% / 7.2%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Solar Flame",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/544594",
+      "type": "Pistol",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Crit Rate +20.2%",
+      "passive_r1": "Oath of Tide Hunters: Dealing Basic Attack or Heavy Attack DMG increases ATK by 2.2% and grants 2.2% Heavy Attack DMG Bonus for 7s, stacking up to 4 times. This effect can be triggered every 1s."
+    }
+  },
+  {
+    "name": "Somnoire Anchor",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/483284",
+    "data": {
+      "passive_name": "Meow!",
+      "mechanics_r1": [
+        "When the wielder deals damage to the target, gain 1 Hiss stack, with 1 stack generated every 1 second.",
+        "Each Hiss stack increases the wielder's ATK by 2% for 3 seconds.",
+        "Hiss stacks up to 10 times.",
+        "Switching off the wielder clears all Hiss stacks.",
+        "At 10 Hiss stacks, the wielder gains 6% Crit. Rate."
+      ],
+      "refinement_scaling": [
+        "ATK increase per Hiss stack: 2% / 2.5% / 3% / 3.5% / 4%",
+        "Crit. Rate increase at 10 Hiss stacks: 6% / 7.5% / 9% / 10.5% / 12%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Somnoire Anchor",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/483284",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.20%",
+      "passive_r1": "Meow!: Gain 1 stack of Hiss when dealing damage to the target, with 1 stack generated every 1s. Hiss: each stack increases the wielder's ATK by 2% for 3s, stacking up to 10 times. Switching off the wielder clears all stacks. Gaining 10 stacks increases the wielder's Crit. Rate by 6%."
+    }
+  },
+  {
+    "name": "Stonard",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455911",
+    "data": {
+      "passive_name": "Wallbreaker",
+      "mechanics_r1": [
+        "When the wielder casts Resonance Skill, the caster's Resonance Liberation DMG Bonus increases by 18% for 15s."
+      ],
+      "refinement_scaling": [
+        "Resonance Liberation DMG Bonus: 18% / 27% / 36% / 45% / 54%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Stonard",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455911",
+      "type": "Gauntlet",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "Crit Rate +20.3%",
+      "passive_r1": "Wallbreaker: When Resonance Skill is cast, increases the caster's Resonance Liberation DMG Bonus by 18%, lasting for 15s."
+    }
+  },
+  {
+    "name": "Sword#18",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455940",
+    "data": {
+      "passive_name": "Daybreak",
+      "mechanics_r1": [
+        "When the wielder's HP drops below 40%, Heavy Attack DMG increases by 18%.",
+        "After the wielder deals Heavy Attack DMG, they are healed by 5%.",
+        "This effect can trigger once every 8s.",
+        "No stacks, duration, party-wide effect, next-character effect, off-field restriction, or DEF/RES ignore is specified."
+      ],
+      "refinement_scaling": [
+        "HP threshold: 40% / 50% / 60% / 70% / 80%",
+        "Heavy Attack DMG increase: 18% / 22.5% / 27% / 31.5% / 36%",
+        "Healing amount: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Sword#18",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455940",
+      "type": "Sword",
+      "rarity": "4★",
+      "atk90": "387",
+      "secondary90": "ATK +36.4%",
+      "passive_r1": "Daybreak: When the Resonator's HP drops below 40%, increases Heavy Attack DMG by 18% and heals them by 5% upon dealing Heavy Attack DMG. This effect can be triggered 1 time(s) every 8s."
+    }
+  },
+  {
+    "name": "Thunderbolt",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455901",
+    "data": {
+      "passive_name": "Unstoppable",
+      "mechanics_r1": [
+        "Hitting a target with Basic Attacks or Heavy Attacks increases Resonance Skill DMG Bonus by 7%.",
+        "The effect can stack up to 3 times.",
+        "The effect lasts for 10s.",
+        "It can trigger once every 1s.",
+        "No resource cost, party-wide sharing, next-character effect, off-field condition, or DEF/RES ignore is specified."
+      ],
+      "refinement_scaling": [
+        "Resonance Skill DMG Bonus per stack: 7% / 11% / 15% / 19% / 23%"
+      ],
+      "rank_coverage": "R1-R5; R2-R5 from Theria Games, not confirmed by Game8's incomplete rank table.",
+      "gaps": [
+        "R2-R5 require an in-game or independent second-source check before precise optimization."
+      ]
+    },
+    "error": null,
+    "refinement_source": "https://theriagames.com/guide/wuthering-waves-thunderbolt/",
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Thunderbolt",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455901",
+      "type": "Pistol",
+      "rarity": "4★",
+      "atk90": "387",
+      "secondary90": "ATK +36.4%",
+      "passive_r1": "Unstoppable: When hitting a target with Basic Attacks or Heavy Attacks, increases Resonance Skill DMG Bonus by 7%, stacking up to 3 time(s). This effect lasts for 10s and can be triggered 1 time(s) every 1s."
+    }
+  },
+  {
+    "name": "Undying Flame",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455900",
+    "data": {
+      "passive_name": "Loyalty",
+      "mechanics_r1": [
+        "Casting Intro Skill increases Resonance Skill DMG Bonus by 20% for 15s.",
+        "The effect is a damage bonus; the evidence does not specify whether it affects the wielder, the party, or another character.",
+        "No resource cost, stacks, cooldown, next-character restriction, off-field limitation, or DEF/RES ignore effect is stated."
+      ],
+      "refinement_scaling": [
+        "Resonance Skill DMG Bonus: 20% / 25% / 30% / 35% / 40%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "The beneficiary scope of the bonus is not specified.",
+        "No cooldown, stacking behavior, resource interaction, character-switch condition, or off-field limitation is provided."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Undying Flame",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455900",
+      "type": "Pistol",
+      "rarity": "4★",
+      "atk90": "412",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Loyalty: When Intro Skill is cast, increases Resonance Skill DMG Bonus by 20% for 15s."
+    }
+  },
+  {
+    "name": "Variation",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455923",
+    "data": {
+      "passive_name": "Ceaseless Aria",
+      "mechanics_r1": [
+        "When the wielder casts Resonance Skill, restores 8 Concerto Energy.",
+        "Can trigger once every 20 seconds."
+      ],
+      "refinement_scaling": [
+        "Concerto Energy restored: 8 / 10 / 12 / 14 / 16"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Variation",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455923",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "337",
+      "secondary90": "Energy Regen +51.8%",
+      "passive_r1": "Ceaseless Aria: When Resonance Skill is cast, restore 8 Concerto Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Waltz in Masquerade",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/492573",
+    "data": {
+      "passive_name": "Rhetoric",
+      "mechanics_r1": [
+        "Dealing damage to enemies with Negative Statuses increases the wielder's ATK by 4%.",
+        "The ATK increase lasts 10 seconds.",
+        "The effect can trigger once per second.",
+        "The effect can stack up to 4 times.",
+        "The passive affects the wielder; no party-wide, next-character, or off-field effects are specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase per stack: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": [
+        "The source does not define which effects qualify as Negative Statuses.",
+        "The source does not specify whether each stack has an independent duration or how stack expiration is handled."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Waltz in Masquerade",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/492573",
+      "type": "Rectifier",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Rhetoric: Dealing DMG to enemies with Negative Statuses increases the wielder's ATK by 4% for 10s. This effect can be triggered 1 time per second, stackable up to 4 times."
+    }
+  },
+  {
+    "name": "Waning Redshift",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/474514",
+    "data": {
+      "passive_name": "Intergalactic Gaze",
+      "mechanics_r1": [
+        "Casting the Resonance Skill grants 6 Resonance Energy.",
+        "Casting the Resonance Skill increases ATK by 10% for 16s.",
+        "This effect can trigger once every 20s.",
+        "The supplied text does not specify stacks, party-wide or next-character application, off-field restrictions, damage type, damage amplification, or DEF/RES ignore."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy granted: 6 / 7 / 8 / 9 / 10",
+        "ATK increase: 10% / 12.5% / 15% / 17.5% / 20%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The supplied Skill Effect does not specify whether the ATK increase applies to the wielder, the party, or another target."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Waning Redshift",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/474514",
+      "type": "Broadblade",
+      "rarity": "4★",
+      "atk90": "462",
+      "secondary90": "ATK +18.2%",
+      "passive_r1": "Intergalactic Gaze: Casting the Resonance Skill grants 6 Resonance Energy and increases ATK by 10% lasting for 16s. This effect can be triggered once every 20s."
+    }
+  },
+  {
+    "name": "Beguiling Melody",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/458986",
+    "data": {
+      "passive_name": "Graceful Touch",
+      "mechanics_r1": [
+        "Casting the Intro Skill restores 4 Concerto Energy.",
+        "Casting the Outro Skill restores 4 Resonance Energy.",
+        "No stacks, cooldown, duration, damage modifier, DEF/RES effect, party-wide effect, next-character effect, or off-field limitation is stated."
+      ],
+      "refinement_scaling": [
+        "Concerto Energy restored on Intro Skill cast: 4 / 5 / 6 / 7 / 8",
+        "Resonance Energy restored on Outro Skill cast: 4 / 5 / 6 / 7 / 8"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Beguiling Melody",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/458986",
+      "type": "Broadblade",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Graceful Touch: When Intro Skill is cast, restores 4 Concerto Energy. When Outro Skill is cast, restores 4 Resonance Energy."
+    }
+  },
+  {
+    "name": "Broadblade of Night",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455946",
+    "data": {
+      "passive_name": "Arrival",
+      "mechanics_r1": [
+        "When the wielder casts an Intro Skill, increases ATK by 8%.",
+        "Effect lasts for 10 seconds."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 8% / 10% / 12% / 14% / 16%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Broadblade of Night",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455946",
+      "type": "Broadblade",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Arrival: When Intro Skill is cast, increases ATK by 8%, lasting for 10s."
+    }
+  },
+  {
+    "name": "Broadblade of Voyager",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455945",
+    "data": {
+      "passive_name": "Long Journey",
+      "mechanics_r1": [
+        "When Resonance Skill is cast, restores 8 Resonance Energy.",
+        "Triggers 1 time every 20s."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy restored: 8 / 9 / 10 / 11 / 12"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Broadblade of Voyager",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455945",
+      "type": "Broadblade",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "Energy Regen +32.3%",
+      "passive_r1": "Long Journey: When Resonance Skill is cast, restores 8 Resonance Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Gauntlets of Night",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455910",
+    "data": {
+      "passive_name": "Assemble",
+      "mechanics_r1": [
+        "Casting Intro Skill increases ATK by 8%.",
+        "The ATK increase lasts for 10 seconds.",
+        "No resource, stack, cooldown, party-wide, next-character, off-field, damage-type, damage-amplification, or DEF/RES-ignoring effect is specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 8% / 10% / 12% / 14% / 16%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Gauntlets of Night",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455910",
+      "type": "Gauntlet",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Assemble: When Intro Skill is cast, increases ATK by 8%, lasting for 10s."
+    }
+  },
+  {
+    "name": "Gauntlets of Voyager",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455909",
+    "data": {
+      "passive_name": "Crusade",
+      "mechanics_r1": [
+        "When the wielder casts a Resonance Skill, restores 8 Resonance Energy.",
+        "This effect can trigger 1 time every 20 seconds."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy restored: 8 / 9 / 10 / 11 / 12"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Gauntlets of Voyager",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455909",
+      "type": "Gauntlet",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "DEF +30.8%",
+      "passive_r1": "Crusade: When Resonance Skill is cast, restores 8 Resonance Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Guardian Broadblade",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455944",
+    "data": {
+      "passive_name": "Consensus",
+      "mechanics_r1": [
+        "Increases the wielder’s Basic Attack DMG Bonus by 12%.",
+        "Increases the wielder’s Heavy Attack DMG Bonus by 12%."
+      ],
+      "refinement_scaling": [
+        "Basic Attack and Heavy Attack DMG Bonus: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Guardian Broadblade",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455944",
+      "type": "Broadblade",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Consensus: Increases Basic Attack and Heavy Attack DMG Bonus by 12%"
+    }
+  },
+  {
+    "name": "Guardian Gauntlets",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455908",
+    "data": {
+      "passive_name": "Collective Strength",
+      "mechanics_r1": [
+        "Increases Resonance Liberation DMG Bonus by 12%."
+      ],
+      "refinement_scaling": [
+        "Resonance Liberation DMG Bonus: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Guardian Gauntlets",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455908",
+      "type": "Gauntlet",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "DEF +38.5%",
+      "passive_r1": "Collective Strength: Increases Resonance Liberation DMG Bonus by 12%."
+    }
+  },
+  {
+    "name": "Guardian Pistols",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455899",
+    "data": {
+      "passive_name": "Unity",
+      "mechanics_r1": [
+        "Increases Resonance Skill DMG Bonus by 12%.",
+        "No trigger, resource cost, stacks, cooldown, duration, party-sharing, next-character, off-field, damage-amplification, or DEF/RES-ignore effect is specified."
+      ],
+      "refinement_scaling": [
+        "Resonance Skill DMG Bonus: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Guardian Pistols",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455899",
+      "type": "Pistol",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Unity: Resonance Skill DMG Bonus is increased by 12%"
+    }
+  },
+  {
+    "name": "Guardian Rectifier",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455922",
+    "data": {
+      "passive_name": "Companionship",
+      "mechanics_r1": [
+        "Increases Basic Attack and Heavy Attack DMG Bonus by 12%."
+      ],
+      "refinement_scaling": [
+        "Basic Attack and Heavy Attack DMG Bonus: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Guardian Rectifier",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455922",
+      "type": "Rectifier",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Companionship: Increases Basic Attack and Heavy Attack DMG Bonus by 12%"
+    }
+  },
+  {
+    "name": "Guardian Sword",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455934",
+    "data": {
+      "passive_name": "Unified",
+      "mechanics_r1": [
+        "Increases Resonance Skill DMG Bonus by 12%.",
+        "No trigger, resource cost, stacks, cooldown, duration, party-wide effect, next-character effect, or off-field limitation is specified.",
+        "The effect is identified as a Resonance Skill DMG Bonus; no damage amplification or DEF/RES ignore is stated."
+      ],
+      "refinement_scaling": [
+        "Resonance Skill DMG Bonus: 12% / 15% / 18% / 21% / 24%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The source does not specify whether the effect applies only to the wielder or has any party-wide scope."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Guardian Sword",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455934",
+      "type": "Sword",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "HP +30.4%",
+      "passive_r1": "Unified: Resonance Skill DMG Bonus is increased by 12%"
+    }
+  },
+  {
+    "name": "Originite: Type I",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455943",
+    "data": {
+      "passive_name": "Temperance",
+      "mechanics_r1": [
+        "When the Resonance Skill is cast, heals the Resonator for 3% of their Max HP.",
+        "Can trigger once every 12 seconds."
+      ],
+      "refinement_scaling": [
+        "Max HP healing: 3% / 3.75% / 4.5% / 5.25% / 6%"
+      ],
+      "rank_coverage": "R1–R5 provided.",
+      "gaps": [
+        "The effect does not specify duration, resource cost, stacks, party-wide application, next-character effects, or off-field behavior."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Originite: Type I",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455943",
+      "type": "Broadblade",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "DEF +38.5%",
+      "passive_r1": "Temperance: When Resonance Skill is cast, heals the Resonator by 3% of their Max HP. This effect can be triggered 1 time(s) every 12s."
+    }
+  },
+  {
+    "name": "Originite: Type II",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455933",
+    "data": {
+      "passive_name": "Vanquish",
+      "mechanics_r1": [
+        "When the wielder casts Resonance Liberation, they recover HP equal to 5% of their Max HP.",
+        "This effect can trigger once every 20 seconds."
+      ],
+      "refinement_scaling": [
+        "Healing amount: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Originite: Type II",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455933",
+      "type": "Sword",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Vanquish: When Resonance Liberation is cast, heals the Resonator by 5% of their Max HP. This effect can be triggered 1 time(s) every 20 seconds."
+    }
+  },
+  {
+    "name": "Originite: Type III",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455898",
+    "data": {
+      "passive_name": "Alacrity",
+      "mechanics_r1": [
+        "Casting a Dodge Counter heals the Resonator for 1.6% of their Max HP.",
+        "This effect can trigger once every 6 seconds."
+      ],
+      "refinement_scaling": [
+        "Max HP healing: 1.6% / 2% / 2.4% / 2.8% / 3.2%"
+      ],
+      "rank_coverage": "R1–R5 provided.",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Originite: Type III",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455898",
+      "type": "Pistol",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Alacrity: When Dodge Counter is cast, heals the Resonator by 1.6% of their Max HP. This effect can be triggered 1 time(s) every 6s."
+    }
+  },
+  {
+    "name": "Originite: Type IV",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455907",
+    "data": {
+      "passive_name": "Rejuvenate",
+      "mechanics_r1": [
+        "When the Resonator deals Basic Attack DMG, they are healed for 0.5% of their Max HP.",
+        "This effect can trigger once every 3s."
+      ],
+      "refinement_scaling": [
+        "Healing amount (% of Max HP): 0.5% / 0.65% / 0.8% / 0.95% / 1.1%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Originite: Type IV",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455907",
+      "type": "Gauntlet",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "Crit DMG +40.4%",
+      "passive_r1": "Rejuvenate: When dealing Basic Attack DMG, heals the Resonator by 0.5% of their Max HP. This effect can be triggered 1 time(s) every 3s."
+    }
+  },
+  {
+    "name": "Originite: Type V",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455921",
+    "data": {
+      "passive_name": "Augment",
+      "mechanics_r1": [
+        "Casting Intro Skill heals the Resonator for 5% of their Max HP.",
+        "This effect can activate once every 20s."
+      ],
+      "refinement_scaling": [
+        "Max HP healing: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Originite: Type V",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455921",
+      "type": "Rectifier",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "HP +30.4%",
+      "passive_r1": "Augment: When Intro Skill is cast, heals the Resonator by 5% of their Max HP. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Pistols of Night",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455897",
+    "data": {
+      "passive_name": "Chivalry",
+      "mechanics_r1": [
+        "When Intro Skill is cast, increases ATK by 8%.",
+        "The ATK increase lasts for 10 seconds."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 8% / 10% / 12% / 14% / 16%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The affected ATK recipient is not specified.",
+        "No resource, stack, cooldown, party/off-field, damage-type, or DEF/RES effects are stated."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Pistols of Night",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455897",
+      "type": "Pistol",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Chivalry: When Intro Skill is cast, increases ATK by 8%, lasting for 10s."
+    }
+  },
+  {
+    "name": "Pistols of Voyager",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455896",
+    "data": {
+      "passive_name": "Long Journey",
+      "mechanics_r1": [
+        "When Resonance Skill is cast, restores 8 Resonance Energy.",
+        "This effect can be triggered 1 time every 20 seconds."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy restored: 8 / 9 / 10 / 11 / 12"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Pistols of Voyager",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455896",
+      "type": "Pistol",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "ATK +30.4%",
+      "passive_r1": "Long Journey: When Resonance Skill is cast, restores 8 Resonance Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Rectifier of Night",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455920",
+    "data": {
+      "passive_name": "Valiance",
+      "mechanics_r1": [
+        "Casting Intro Skill increases ATK by 8% for 10s.",
+        "No resource, stack, cooldown, party-wide, next-character, off-field, damage-type, damage-amplification, or DEF/RES-ignore effects are specified."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 8% / 10% / 12% / 14% / 16%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Rectifier of Night",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455920",
+      "type": "Rectifier",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Valiance: When Intro Skill is cast, increases ATK by 8%, lasting for 10s."
+    }
+  },
+  {
+    "name": "Rectifier of Voyager",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455919",
+    "data": {
+      "passive_name": "Crusade",
+      "mechanics_r1": [
+        "Casting Resonance Skill restores Resonance Energy.",
+        "This effect can trigger 1 time every 20 seconds."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy restored: 8 / 9 / 10 / 11 / 12"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": [
+        "The evidence does not specify whether the restored Resonance Energy affects the wielder, the party, or another target."
+      ]
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Rectifier of Voyager",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455919",
+      "type": "Rectifier",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "Energy Regen +32.3%",
+      "passive_r1": "Crusade: When Resonance Skill is cast, restores 8 Resonance Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Sword of Night",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455932",
+    "data": {
+      "passive_name": "Tenacity",
+      "mechanics_r1": [
+        "When Intro Skill is cast, increases ATK by 8%.",
+        "The effect lasts for 10s."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 8% / 10% / 12% / 14% / 16%"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Sword of Night",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455932",
+      "type": "Sword",
+      "rarity": "3★",
+      "atk90": "325",
+      "secondary90": "ATK +24.3%",
+      "passive_r1": "Tenacity: When Intro Skill is cast, increases ATK by 8%, lasting for 10s."
+    }
+  },
+  {
+    "name": "Sword of Voyager",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455931",
+    "data": {
+      "passive_name": "Crusade",
+      "mechanics_r1": [
+        "When the wielder casts Resonance Skill, restores 8 Resonance Energy.",
+        "Can trigger once every 20 seconds."
+      ],
+      "refinement_scaling": [
+        "Resonance Energy restored: 8 / 9 / 10 / 11 / 12"
+      ],
+      "rank_coverage": "R1–R5",
+      "gaps": []
+    },
+    "error": null,
+    "metadata": {
+      "category": "weapon_detail",
+      "name": "Sword of Voyager",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455931",
+      "type": "Sword",
+      "rarity": "3★",
+      "atk90": "300",
+      "secondary90": "Energy Regen +32.3%",
+      "passive_r1": "Crusade: When Resonance Skill is cast, restores 8 Resonance Energy. This effect can be triggered 1 time(s) every 20s."
+    }
+  },
+  {
+    "name": "Tyro Broadblade",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455942",
+    "data": {
+      "passive_name": "Prologue",
+      "mechanics_r1": [
+        "Wielder ATK +5%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Broadblade",
+      "rarity": "2★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455942"
+    }
+  },
+  {
+    "name": "Tyro Gauntlets",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455906",
+    "data": {
+      "passive_name": "Prologue",
+      "mechanics_r1": [
+        "Wielder ATK +5%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Gauntlet",
+      "rarity": "2★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455906"
+    }
+  },
+  {
+    "name": "Tyro Pistols",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455895",
+    "data": {
+      "passive_name": "Prologue",
+      "mechanics_r1": [
+        "Wielder ATK +5%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Pistol",
+      "rarity": "2★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455895"
+    }
+  },
+  {
+    "name": "Tyro Rectifier",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455918",
+    "data": {
+      "passive_name": "Prologue",
+      "mechanics_r1": [
+        "Wielder ATK +5%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Rectifier",
+      "rarity": "2★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455918"
+    }
+  },
+  {
+    "name": "Tyro Sword",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455930",
+    "data": {
+      "passive_name": "Prologue",
+      "mechanics_r1": [
+        "Wielder ATK +5%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 5% / 6.25% / 7.5% / 8.75% / 10%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Sword",
+      "rarity": "2★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455930"
+    }
+  },
+  {
+    "name": "Training Broadblade",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455941",
+    "data": {
+      "passive_name": "Persevere",
+      "mechanics_r1": [
+        "Wielder ATK +4%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Broadblade",
+      "rarity": "1★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455941"
+    }
+  },
+  {
+    "name": "Training Gauntlets",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455905",
+    "data": {
+      "passive_name": "Persevere",
+      "mechanics_r1": [
+        "Wielder ATK +4%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Gauntlet",
+      "rarity": "1★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455905"
+    }
+  },
+  {
+    "name": "Training Pistols",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455894",
+    "data": {
+      "passive_name": "Persevere",
+      "mechanics_r1": [
+        "Wielder ATK +4%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Pistol",
+      "rarity": "1★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455894"
+    }
+  },
+  {
+    "name": "Training Rectifier",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455917",
+    "data": {
+      "passive_name": "Persevere",
+      "mechanics_r1": [
+        "Wielder ATK +4%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Rectifier",
+      "rarity": "1★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455917"
+    }
+  },
+  {
+    "name": "Training Sword",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/455929",
+    "data": {
+      "passive_name": "Persevere",
+      "mechanics_r1": [
+        "Wielder ATK +4%."
+      ],
+      "refinement_scaling": [
+        "ATK increase: 4% / 5% / 6% / 7% / 8%"
+      ],
+      "rank_coverage": "R1-R5",
+      "gaps": []
+    },
+    "metadata": {
+      "type": "Sword",
+      "rarity": "1★",
+      "atk90": "n.a.",
+      "secondary90": "n.a.",
+      "url": "https://game8.co/games/Wuthering-Waves/archives/455929"
+    }
+  }
+]

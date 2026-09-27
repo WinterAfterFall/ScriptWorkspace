@@ -1,0 +1,711 @@
+[
+  {
+    "name": "Heart of Evil's Purge",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Aero DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "After inflicting Tune Strain - Shifting, increase Crit. DMG by 20% and Aero DMG Bonus by 20% for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Lamp of Nether Road",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "HP +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Upon gaining a Shield, increase Crit. Rate by 5% for 5s, up to 4 stacks.",
+            "This effect can be triggered every 0.5s.",
+            "At maximum stacks, gain 15% Fusion DMG Bonus."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Song of Feathered Trace",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Energy Regen +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Upon inflicting Havoc Bane, gain Xuanling's Feather, granting the Resonator +20% Crit. Rate and +25% Heavy Attack DMG Bonus for 15s.",
+            "Upon inflicting Glacio Chafe, gain Chongming's Feather, granting Resonators in the team +0.1% ATK for every 1% of the Resonator's Energy Regen, up to 25%, for 10s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Celestial Light",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Spectro DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "After releasing Intro Skill, Spectro DMG +30% for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Chromatic Foam",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Fusion DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "When the Resonator inflicts Fusion Burst on enemies, they gain 10% Fusion DMG Bonus for 15s.",
+            "While this effect is active, casting an Outro Skill grants the incoming Resonator 25% Fusion DMG Bonus for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Crown of Valor",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 3,
+          "mechanics": [
+            "Upon gaining a Shield, increase the Resonator's ATK by 6% and Crit DMG by 4% for 4s.",
+            "This effect can be triggered once every 0.5s and stacks up to 5 times."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Dream of the Lost",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 3,
+          "mechanics": [
+            "Having 0 Resonance Energy increases Crit. Rate by 20%.",
+            "Having 0 Resonance Energy grants a 35% Echo Skill DMG Bonus."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Empyrean Anthem",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Energy Regen +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Coordinated Attack DMG +80%.",
+            "When a Coordinated Attack scores a critical hit, increase the active Resonator's ATK by 20% for 4s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Eternal Radiance",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Spectro DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Inflicting enemies with Spectro Frazzle increases Crit. Rate by 20% for 15s.",
+            "Attacking enemies with 10 stacks of Spectro Frazzle grants 15% Spectro DMG Bonus for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Flamewing's Shadow",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 3,
+          "mechanics": [
+            "Dealing Echo Skill DMG increases Heavy Attack Crit. Rate by 20% for 6s.",
+            "Dealing Heavy Attack DMG increases Echo Skill Crit. Rate by 20% for 6s.",
+            "While both effects are active, gain 16% Fusion DMG Bonus."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Flaming Clawprint",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Fusion DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Casting Resonance Liberation increases Fusion DMG of Resonators in the team by 15% and the caster's Resonance Liberation DMG by 20% for 35s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Freezing Frost",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Glacio DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "After releasing a Basic Attack or Heavy Attack, Glacio DMG increases by 10%.",
+            "This effect stacks up to 3 times; each stack lasts 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Frosty Resolve",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Resonance Skill DMG is increased by 12%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Casting Resonance Skill grants 22.5% Glacio DMG Bonus for 15s.",
+            "Casting Resonance Liberation increases Resonance Skill DMG by 18% for 5s; this effect stacks up to 2 times."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Gusts of Welkin",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Aero DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Inflicting Aero Erosion on an enemy increases Aero DMG for all Resonators in the team by 15% for 20s.",
+            "The Resonator triggering this effect gains an additional 15% Aero DMG for 20s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Halo of Starry Radiance",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Healing Bonus +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "When healing a Resonator in the team, every 1% of Off-Tune Buildup Rate grants all Resonators in the team a 0.2% ATK increase for 4s, up to 25%.",
+            "Effects of the same name cannot stack."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Havoc Eclipse",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Havoc DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "After releasing Basic Attack or Heavy Attack, Havoc DMG +7.5%.",
+            "Stacks up to 4 times; each stack lasts 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Law of Harmony",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 3,
+          "mechanics": [
+            "Casting an Echo Skill grants the caster 30% Heavy Attack DMG Bonus for 4s.",
+            "All Resonators in the team gain 4% Echo Skill DMG Bonus for 30s, stacking up to 4 times.",
+            "Echoes with the same name can trigger this effect only once; the record of which Echo triggered it is cleared when this effect ends.",
+            "At 4 stacks, casting an Echo Skill again resets this effect’s duration."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Lingering Tunes",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "ATK increases by 10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "While the wearer is on the field, ATK increases by 5% every 1.5s, stacking up to 4 times.",
+            "Outro Skill DMG increases by 60%."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Midnight Veil",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Havoc DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "When Outro Skill is triggered, deal an additional 480% Havoc DMG to surrounding enemies.",
+            "Grant the incoming Resonator 15% Havoc DMG Bonus for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Molten Rift",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Fusion DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "After releasing Resonance Skill, Fusion DMG +30% for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Moonlit Clouds",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Energy Regen increases by 10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "After using an Outro Skill, the next Resonator's ATK increases by 22.5% for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Pact of Neonlight Leap",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Spectro DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Casting an Outro Skill increases the ATK of the incoming Resonator who casts an Intro Skill by 15%.",
+            "Each point of Tune Break Boost the incoming Resonator has additionally increases their ATK by 0.3%, up to 15%.",
+            "This effect lasts for 15s or until the Resonator is switched out."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Reel of Spliced Memories",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "ATK +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Inflicting Tune Rupture-Shifting or Tune Strain-Shifting on enemies increases the Tune Break Boost of Resonators in the team by 20 for 30s.",
+            "Effects with the same name do not stack."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Rejuvenating Glow",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Healing Bonus +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Upon healing allies, increases the ATK of all party members by 15% for 30s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Rite of Gilded Revelation",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Spectro DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Dealing Basic Attack DMG increases Spectro DMG by 10% for 5s; stacks up to 3 times.",
+            "At 3 stacks, casting Resonance Liberation grants 40% Basic Attack DMG Bonus."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Shadow of Shattered Dreams",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 1,
+          "mechanics": [
+            "Inflicting Hack - Shifting on a target grants 35% Basic Attack DMG and 35% Heavy Attack DMG for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Sierra Gale",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Aero DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "After releasing Intro Skill, Aero DMG +30% for 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Sound of True Name",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Aero DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Dealing Echo Skill DMG to enemies increases the Resonator's Echo Skill Crit. Rate by 20%.",
+            "Grants 15% Aero DMG Bonus for 5s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Thread of Severed Fate",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 3,
+          "mechanics": [
+            "Inflicting Havoc Bane increases the wearer’s ATK by 20% and grants a 30% Resonance Liberation DMG Bonus for 5s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Tidebreaking Courage",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Increases Energy Regen by 10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Increases the Resonator's ATK by 15%.",
+            "When the Resonator reaches 250% Energy Regen, increases all Attribute DMG for that Resonator by 30%."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Trailblazing Star",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Fusion DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Inflicting Fusion Burst or Tune Rupture - Shifting increases the Resonator's Crit. Rate by 20% and grants 20% Fusion DMG Bonus for 8s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Void Thunder",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Electro DMG increases by 10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "After releasing a Heavy Attack or Resonance Skill, Electro DMG increases by 15%.",
+            "This effect stacks up to 2 times; each stack lasts 15s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Windward Pilgrimage",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Aero DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Hitting a target with Aero Erosion increases Crit Rate by 10% and grants 30% Aero DMG Bonus for 10s."
+          ]
+        }
+      ]
+    },
+    "error": null
+  },
+  {
+    "name": "Wishes of Quiet Snowfall",
+    "url": "https://game8.co/games/Wuthering-Waves/archives/456215",
+    "data": {
+      "effects": [
+        {
+          "pieces": 2,
+          "mechanics": [
+            "Glacio DMG +10%."
+          ]
+        },
+        {
+          "pieces": 5,
+          "mechanics": [
+            "Inflicting Glacio Chafe on enemies increases Glacio DMG dealt by 10% for 15s.",
+            "Grants the wearer Snowfall for 15s; this can be triggered every 25s.",
+            "While Snowfall is active, dealing Resonance Liberation DMG removes Snowfall and increases Crit. Rate by 25% for 6s. Dealing Resonance Liberation DMG while this effect is active extends its duration by 4s, triggered once every 0.5s, up to 6 times.",
+            "While Snowfall is active, casting Outro Skill removes Snowfall and grants the incoming Resonator +25% Glacio DMG Bonus for 15s.",
+            "When Snowfall is removed, only one of the two effects above can be triggered."
+          ]
+        }
+      ]
+    },
+    "error": null
+  }
+]

@@ -1,0 +1,1778 @@
+{
+  "snapshot_date": "2026-09-20",
+  "mainstats": [
+    {
+      "cost": 1,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "ATK%",
+      "game8_initial": "2.2%",
+      "game8_max": "5.8%",
+      "wiki_initial": "2.2%",
+      "wiki_max": "5.7%",
+      "initial": 2.2,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "DEF%",
+      "game8_initial": "2.2%",
+      "game8_max": "5.8%",
+      "wiki_initial": "2.2%",
+      "wiki_max": "5.7%",
+      "initial": 2.2,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "HP%",
+      "game8_initial": "2.8%",
+      "game8_max": "7.4%",
+      "wiki_initial": "2.8%",
+      "wiki_max": "7.2%",
+      "initial": 2.8,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "HP (2nd Line)",
+      "game8_initial": "114",
+      "game8_max": "296",
+      "wiki_initial": "114",
+      "wiki_max": "296",
+      "initial": 114.0,
+      "maximum": 296.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "ATK%",
+      "game8_initial": "2.4%",
+      "game8_max": "8.1%",
+      "wiki_initial": "2.4%",
+      "wiki_max": "8.1%",
+      "initial": 2.4,
+      "maximum": 8.1,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "DEF%",
+      "game8_initial": "2.4%",
+      "game8_max": "8.1%",
+      "wiki_initial": "2.4%",
+      "wiki_max": "8.1%",
+      "initial": 2.4,
+      "maximum": 8.1,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "HP%",
+      "game8_initial": "3.0%",
+      "game8_max": "10.3%",
+      "wiki_initial": "3.0%",
+      "wiki_max": "10.20%",
+      "initial": 3.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "HP (2nd Line)",
+      "game8_initial": "152",
+      "game8_max": "516",
+      "wiki_initial": "152",
+      "wiki_max": "516",
+      "initial": 152.0,
+      "maximum": 516.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "ATK%",
+      "game8_initial": "2.7%",
+      "game8_max": "11.3%",
+      "wiki_initial": "2.7%",
+      "wiki_max": "11.3%",
+      "initial": 2.7,
+      "maximum": 11.3,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "DEF%",
+      "game8_initial": "2.7%",
+      "game8_max": "11.3%",
+      "wiki_initial": "2.7%",
+      "wiki_max": "11.3%",
+      "initial": 2.7,
+      "maximum": 11.3,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "HP%",
+      "game8_initial": "3.4%",
+      "game8_max": "14.3%",
+      "wiki_initial": "3.4%",
+      "wiki_max": "14.2%",
+      "initial": 3.4,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "HP (2nd Line)",
+      "game8_initial": "228",
+      "game8_max": "957",
+      "wiki_initial": "228",
+      "wiki_max": "957",
+      "initial": 228.0,
+      "maximum": 957.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "ATK%",
+      "game8_initial": "3.6%",
+      "game8_max": "18.0%",
+      "wiki_initial": "3.6%",
+      "wiki_max": "18.0%",
+      "initial": 3.6,
+      "maximum": 18.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "DEF%",
+      "game8_initial": "3.6%",
+      "game8_max": "18.0%",
+      "wiki_initial": "3.6%",
+      "wiki_max": "18.0%",
+      "initial": 3.6,
+      "maximum": 18.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "HP%",
+      "game8_initial": "4.5%",
+      "game8_max": "22.8%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "22.8%",
+      "initial": 4.5,
+      "maximum": 22.8,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 1,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "HP (2nd Line)",
+      "game8_initial": "456",
+      "game8_max": "2280",
+      "wiki_initial": "456",
+      "wiki_max": "2280",
+      "initial": 456.0,
+      "maximum": 2280.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "ATK%",
+      "game8_initial": "3.7%",
+      "game8_max": "9.7%",
+      "wiki_initial": "3.7%",
+      "wiki_max": "9.6%",
+      "initial": 3.7,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "DEF%",
+      "game8_initial": "4.7%",
+      "game8_max": "12.3%",
+      "wiki_initial": "4.7%",
+      "wiki_max": "12.3%",
+      "initial": 4.7,
+      "maximum": 12.3,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "HP%",
+      "game8_initial": "3.7%",
+      "game8_max": "9.7%",
+      "wiki_initial": "3.7%",
+      "wiki_max": "9.6%",
+      "initial": 3.7,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Aero DMG Bonus",
+      "game8_initial": "3.7%",
+      "game8_max": "9.7%",
+      "wiki_initial": "3.7%",
+      "wiki_max": "9.6%",
+      "initial": 3.7,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Electro DMG Bonus",
+      "game8_initial": "3.7%",
+      "game8_max": "9.7%",
+      "wiki_initial": "3.7%",
+      "wiki_max": "9.6%",
+      "initial": 3.7,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Fusion DMG Bonus",
+      "game8_initial": "3.7%",
+      "game8_max": "9.7%",
+      "wiki_initial": "3.7%",
+      "wiki_max": "9.6%",
+      "initial": 3.7,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Glacio DMG Bonus",
+      "game8_initial": "3.7%",
+      "game8_max": "9.7%",
+      "wiki_initial": "3.7%",
+      "wiki_max": "9.6%",
+      "initial": 3.7,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Havoc DMG Bonus",
+      "game8_initial": "3.7%",
+      "game8_max": "9.7%",
+      "wiki_initial": "3.7%",
+      "wiki_max": "9.6%",
+      "initial": 3.7,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Spectro DMG Bonus",
+      "game8_initial": "3.7%",
+      "game8_max": "9.7%",
+      "wiki_initial": "3.7%",
+      "wiki_max": "9.6%",
+      "initial": 3.7,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Energy Regen",
+      "game8_initial": "4.0%",
+      "game8_max": "10.4%",
+      "wiki_initial": "n.a.",
+      "wiki_max": "10%",
+      "initial": null,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "ATK (2nd Line)",
+      "game8_initial": "12",
+      "game8_max": "31",
+      "wiki_initial": "12",
+      "wiki_max": "31",
+      "initial": 12.0,
+      "maximum": 31.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "ATK%",
+      "game8_initial": "4.0%",
+      "game8_max": "13.6%",
+      "wiki_initial": "4.0%",
+      "wiki_max": "14.0%",
+      "initial": 4.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "DEF%",
+      "game8_initial": "5.0%",
+      "game8_max": "17.2%",
+      "wiki_initial": "5.0%",
+      "wiki_max": "17%",
+      "initial": 5.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "HP%",
+      "game8_initial": "4.0%",
+      "game8_max": "13.6%",
+      "wiki_initial": "4.0%",
+      "wiki_max": "14.0%",
+      "initial": 4.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Aero DMG Bonus",
+      "game8_initial": "4.0%",
+      "game8_max": "13.6%",
+      "wiki_initial": "4.0%",
+      "wiki_max": "14%",
+      "initial": 4.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Electro DMG Bonus",
+      "game8_initial": "4.0%",
+      "game8_max": "13.6%",
+      "wiki_initial": "4.0%",
+      "wiki_max": "14%",
+      "initial": 4.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Fusion DMG Bonus",
+      "game8_initial": "4.0%",
+      "game8_max": "13.6%",
+      "wiki_initial": "4.0%",
+      "wiki_max": "14%",
+      "initial": 4.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Glacio DMG Bonus",
+      "game8_initial": "4.0%",
+      "game8_max": "13.6%",
+      "wiki_initial": "4.0%",
+      "wiki_max": "14%",
+      "initial": 4.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Havoc DMG Bonus",
+      "game8_initial": "4.0%",
+      "game8_max": "13.6%",
+      "wiki_initial": "4.0%",
+      "wiki_max": "14%",
+      "initial": 4.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Spectro DMG Bonus",
+      "game8_initial": "4.0%",
+      "game8_max": "13.6%",
+      "wiki_initial": "4.0%",
+      "wiki_max": "14%",
+      "initial": 4.0,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Energy Regen",
+      "game8_initial": "4.2%",
+      "game8_max": "14.5%",
+      "wiki_initial": "4.2%",
+      "wiki_max": "14.2%",
+      "initial": 4.2,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "ATK (2nd Line)",
+      "game8_initial": "13",
+      "game8_max": "44",
+      "wiki_initial": "13",
+      "wiki_max": "44",
+      "initial": 13.0,
+      "maximum": 44.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "ATK%",
+      "game8_initial": "4.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "18.9%",
+      "initial": 4.5,
+      "maximum": 18.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "DEF%",
+      "game8_initial": "5.7%",
+      "game8_max": "23.9%",
+      "wiki_initial": "5.7%",
+      "wiki_max": "23.9%",
+      "initial": 5.7,
+      "maximum": 23.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "HP%",
+      "game8_initial": "4.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "18.9%",
+      "initial": 4.5,
+      "maximum": 18.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Aero DMG Bonus",
+      "game8_initial": "4.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "18.9%",
+      "initial": 4.5,
+      "maximum": 18.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Electro DMG Bonus",
+      "game8_initial": "4.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "18.9%",
+      "initial": 4.5,
+      "maximum": 18.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Fusion DMG Bonus",
+      "game8_initial": "4.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "18.9%",
+      "initial": 4.5,
+      "maximum": 18.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Glacio DMG Bonus",
+      "game8_initial": "4.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "18.9%",
+      "initial": 4.5,
+      "maximum": 18.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Havoc DMG Bonus",
+      "game8_initial": "4.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "18.9%",
+      "initial": 4.5,
+      "maximum": 18.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Spectro DMG Bonus",
+      "game8_initial": "4.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "4.5%",
+      "wiki_max": "18.9%",
+      "initial": 4.5,
+      "maximum": 18.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Energy Regen",
+      "game8_initial": "4.8%",
+      "game8_max": "20.1%",
+      "wiki_initial": "4.8%",
+      "wiki_max": "20.1%",
+      "initial": 4.8,
+      "maximum": 20.1,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "ATK (2nd Line)",
+      "game8_initial": "15",
+      "game8_max": "63",
+      "wiki_initial": "15",
+      "wiki_max": "63",
+      "initial": 15.0,
+      "maximum": 63.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "ATK%",
+      "game8_initial": "6.0%",
+      "game8_max": "30.0%",
+      "wiki_initial": "6.0%",
+      "wiki_max": "30%",
+      "initial": 6.0,
+      "maximum": 30.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "DEF%",
+      "game8_initial": "7.6%",
+      "game8_max": "38.0%",
+      "wiki_initial": "7.6%",
+      "wiki_max": "38%",
+      "initial": 7.6,
+      "maximum": 38.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "HP%",
+      "game8_initial": "6.0%",
+      "game8_max": "30.0%",
+      "wiki_initial": "6.0%",
+      "wiki_max": "30%",
+      "initial": 6.0,
+      "maximum": 30.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Aero DMG Bonus",
+      "game8_initial": "6.0%",
+      "game8_max": "30.0%",
+      "wiki_initial": "6.0%",
+      "wiki_max": "30%",
+      "initial": 6.0,
+      "maximum": 30.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Electro DMG Bonus",
+      "game8_initial": "6.0%",
+      "game8_max": "30.0%",
+      "wiki_initial": "6.0%",
+      "wiki_max": "30%",
+      "initial": 6.0,
+      "maximum": 30.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Fusion DMG Bonus",
+      "game8_initial": "6.0%",
+      "game8_max": "30.0%",
+      "wiki_initial": "6.0%",
+      "wiki_max": "30%",
+      "initial": 6.0,
+      "maximum": 30.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Glacio DMG Bonus",
+      "game8_initial": "6.0%",
+      "game8_max": "30.0%",
+      "wiki_initial": "6.0%",
+      "wiki_max": "30%",
+      "initial": 6.0,
+      "maximum": 30.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Havoc DMG Bonus",
+      "game8_initial": "6.0%",
+      "game8_max": "30.0%",
+      "wiki_initial": "6.0%",
+      "wiki_max": "30%",
+      "initial": 6.0,
+      "maximum": 30.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Spectro DMG Bonus",
+      "game8_initial": "6.0%",
+      "game8_max": "30.0%",
+      "wiki_initial": "6.0%",
+      "wiki_max": "30%",
+      "initial": 6.0,
+      "maximum": 30.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Energy Regen",
+      "game8_initial": "6.4%",
+      "game8_max": "32.0%",
+      "wiki_initial": "6.4%",
+      "wiki_max": "32.0%",
+      "initial": 6.4,
+      "maximum": 32.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 3,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "ATK (2nd Line)",
+      "game8_initial": "20",
+      "game8_max": "100",
+      "wiki_initial": "20",
+      "wiki_max": "100",
+      "initial": 20.0,
+      "maximum": 100.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "ATK%",
+      "game8_initial": "4.1%",
+      "game8_max": "10.7%",
+      "wiki_initial": "4.1%",
+      "wiki_max": "10.6%",
+      "initial": 4.1,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "DEF%",
+      "game8_initial": "5.2%",
+      "game8_max": "13.5%",
+      "wiki_initial": "5.2%",
+      "wiki_max": "13.5%",
+      "initial": 5.2,
+      "maximum": 13.5,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "HP%",
+      "game8_initial": "4.1%",
+      "game8_max": "10.7%",
+      "wiki_initial": "4.1%",
+      "wiki_max": "10.6%",
+      "initial": 4.1,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Crit. Rate",
+      "game8_initial": "2.7%",
+      "game8_max": "7.1%",
+      "wiki_initial": "2.7%",
+      "wiki_max": "7.1%",
+      "initial": 2.7,
+      "maximum": 7.1,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Crit. DMG",
+      "game8_initial": "5.5%",
+      "game8_max": "14.3%",
+      "wiki_initial": "5.4%",
+      "wiki_max": "14.3%",
+      "initial": null,
+      "maximum": 14.3,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "Healing Bonus",
+      "game8_initial": "3.3%",
+      "game8_max": "5.5%",
+      "wiki_initial": "n.a.",
+      "wiki_max": "8.5%",
+      "initial": null,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 2,
+      "max_level": 10,
+      "stat": "ATK (2nd Line)",
+      "game8_initial": "18",
+      "game8_max": "46",
+      "wiki_initial": "18",
+      "wiki_max": "46",
+      "initial": 18.0,
+      "maximum": 46.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "ATK%",
+      "game8_initial": "4.3%",
+      "game8_max": "14.9%",
+      "wiki_initial": "4.3%",
+      "wiki_max": "14.6%",
+      "initial": 4.3,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "DEF%",
+      "game8_initial": "5.5%",
+      "game8_max": "18.9%",
+      "wiki_initial": "5.5%",
+      "wiki_max": "18.7%",
+      "initial": 5.5,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "HP%",
+      "game8_initial": "4.3%",
+      "game8_max": "14.9%",
+      "wiki_initial": "4.3%",
+      "wiki_max": "14.6%",
+      "initial": 4.3,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Crit. Rate",
+      "game8_initial": "2.9%",
+      "game8_max": "9.9%",
+      "wiki_initial": "2.9%",
+      "wiki_max": "9.8%",
+      "initial": 2.9,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Crit. DMG",
+      "game8_initial": "5.8%",
+      "game8_max": "19.9%",
+      "wiki_initial": "5.8%",
+      "wiki_max": "19.7%",
+      "initial": 5.8,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "Healing Bonus",
+      "game8_initial": "3.5%",
+      "game8_max": "11.9%",
+      "wiki_initial": "3.5%",
+      "wiki_max": "11.9%",
+      "initial": 3.5,
+      "maximum": 11.9,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 3,
+      "max_level": 15,
+      "stat": "ATK (2nd Line)",
+      "game8_initial": "20",
+      "game8_max": "68",
+      "wiki_initial": "20",
+      "wiki_max": "68",
+      "initial": 20.0,
+      "maximum": 68.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "ATK%",
+      "game8_initial": "4.9%",
+      "game8_max": "20.7%",
+      "wiki_initial": "4.9%",
+      "wiki_max": "20.5%",
+      "initial": 4.9,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "DEF%",
+      "game8_initial": "6.2%",
+      "game8_max": "26.3%",
+      "wiki_initial": "6.2%",
+      "wiki_max": "26.0%",
+      "initial": 6.2,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "HP%",
+      "game8_initial": "4.9%",
+      "game8_max": "20.7%",
+      "wiki_initial": "4.9%",
+      "wiki_max": "20.5%",
+      "initial": 4.9,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Crit. Rate",
+      "game8_initial": "3.3%",
+      "game8_max": "13.8%",
+      "wiki_initial": "3.3%",
+      "wiki_max": "13.8%",
+      "initial": 3.3,
+      "maximum": 13.8,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Crit. DMG",
+      "game8_initial": "6.6%",
+      "game8_max": "27.7%",
+      "wiki_initial": "6.6%",
+      "wiki_max": "27.7%",
+      "initial": 6.6,
+      "maximum": 27.7,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "Healing Bonus",
+      "game8_initial": "3.9%",
+      "game8_max": "16.6%",
+      "wiki_initial": "3.9%",
+      "wiki_max": "16.3%",
+      "initial": 3.9,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 4,
+      "max_level": 20,
+      "stat": "ATK (2nd Line)",
+      "game8_initial": "22",
+      "game8_max": "92",
+      "wiki_initial": "22",
+      "wiki_max": "92",
+      "initial": 22.0,
+      "maximum": 92.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "ATK%",
+      "game8_initial": "6.6%",
+      "game8_max": "33.0%",
+      "wiki_initial": "6.6%",
+      "wiki_max": "33.0%",
+      "initial": 6.6,
+      "maximum": 33.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "DEF%",
+      "game8_initial": "8.3%",
+      "game8_max": "41.8%",
+      "wiki_initial": "8.3%",
+      "wiki_max": "41.5%",
+      "initial": 8.3,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "HP%",
+      "game8_initial": "6.6%",
+      "game8_max": "33.0%",
+      "wiki_initial": "6.6%",
+      "wiki_max": "33.0%",
+      "initial": 6.6,
+      "maximum": 33.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Crit. Rate",
+      "game8_initial": "4.4%",
+      "game8_max": "22.0%",
+      "wiki_initial": "4.4%",
+      "wiki_max": "22.0%",
+      "initial": 4.4,
+      "maximum": 22.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Crit. DMG",
+      "game8_initial": "8.8%",
+      "game8_max": "44.0%",
+      "wiki_initial": "8.8%",
+      "wiki_max": "44.0%",
+      "initial": 8.8,
+      "maximum": 44.0,
+      "unit": "percent",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "Healing Bonus",
+      "game8_initial": "5.2%",
+      "game8_max": "26.4%",
+      "wiki_initial": "5.2%",
+      "wiki_max": "26.0%",
+      "initial": 5.2,
+      "maximum": null,
+      "unit": "percent",
+      "status": "source_conflict",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    },
+    {
+      "cost": 4,
+      "rarity": 5,
+      "max_level": 25,
+      "stat": "ATK (2nd Line)",
+      "game8_initial": "30",
+      "game8_max": "150",
+      "wiki_initial": "30",
+      "wiki_max": "150",
+      "initial": 30.0,
+      "maximum": 150.0,
+      "unit": "flat",
+      "status": "cross_checked",
+      "sources": [
+        "https://game8.co/games/Wuthering-Waves/archives/456278",
+        "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+      ]
+    }
+  ],
+  "substats": [
+    {
+      "name": "HP",
+      "rolls": [
+        320,
+        360,
+        390,
+        430,
+        470,
+        510,
+        540,
+        580
+      ],
+      "unit": "flat",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "ATK",
+      "rolls": [
+        30,
+        40,
+        50,
+        60
+      ],
+      "unit": "flat",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "DEF",
+      "rolls": [
+        40,
+        50,
+        60,
+        70
+      ],
+      "unit": "flat",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "HP%",
+      "rolls": [
+        6.4,
+        7.1,
+        7.9,
+        8.6,
+        9.4,
+        10.1,
+        10.9,
+        11.6
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "ATK%",
+      "rolls": [
+        6.4,
+        7.1,
+        7.9,
+        8.6,
+        9.4,
+        10.1,
+        10.9,
+        11.6
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "DEF%",
+      "rolls": [
+        8.1,
+        9.0,
+        10.0,
+        10.9,
+        11.8,
+        12.8,
+        13.8,
+        14.7
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "Energy Regen",
+      "rolls": [
+        6.8,
+        7.6,
+        8.4,
+        9.2,
+        10.0,
+        10.8,
+        11.6,
+        12.4
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "Crit. Rate",
+      "rolls": [
+        6.3,
+        6.9,
+        7.5,
+        8.1,
+        8.7,
+        9.3,
+        9.9,
+        10.5
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "Crit. DMG",
+      "rolls": [
+        12.6,
+        13.8,
+        15.0,
+        16.2,
+        17.4,
+        18.6,
+        19.8,
+        21.0
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "Basic Attack DMG Bonus",
+      "rolls": [
+        6.4,
+        7.1,
+        7.9,
+        8.6,
+        9.4,
+        10.1,
+        10.9,
+        11.6
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "Heavy Attack DMG Bonus",
+      "rolls": [
+        6.4,
+        7.1,
+        7.9,
+        8.6,
+        9.4,
+        10.1,
+        10.9,
+        11.6
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "Resonance Skill DMG Bonus",
+      "rolls": [
+        6.4,
+        7.1,
+        7.9,
+        8.6,
+        9.4,
+        10.1,
+        10.9,
+        11.6
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    },
+    {
+      "name": "Resonance Liberation DMG Bonus",
+      "rolls": [
+        6.4,
+        7.1,
+        7.9,
+        8.6,
+        9.4,
+        10.1,
+        10.9,
+        11.6
+      ],
+      "unit": "percent",
+      "url": "https://wutheringwaves.fandom.com/wiki/Echo/Stats"
+    }
+  ]
+}
